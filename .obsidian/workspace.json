@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78b95ab613cddb9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/25-09-24 COURS 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algo/23-09-24 COURS 1.md",
+                "file": "Algo/25-09-24 COURS 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algo/23-09-24 COURS 1.md",
+                "file": "Algo/25-09-24 COURS 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algo/23-09-24 COURS 1.md"
+                "file": "Algo/25-09-24 COURS 3.md"
               }
             }
           }
@@ -146,9 +159,11 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "97cfd784189c265d",
+  "active": "78b95ab613cddb9e",
   "lastOpenFiles": [
     "Algo/24-09-24 COURS 2.md",
+    "Algo/25-09-24 COURS 3.md",
+    "Algo/FONCTIONS.md",
     "Algo/23-09-24 COURS 1.md",
     "Module A/Séance 1.md",
     "Veille/README.md",
