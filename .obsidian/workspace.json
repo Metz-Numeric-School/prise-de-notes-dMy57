@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/25-09-24 COURS 3.md",
+                "file": "Algo/23-09-24 COURS 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20e6dd24a937286f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CASI LORRAINE/26-09-24 Réunion de service.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a21b396e1bac8a75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/23-09-24 COURS 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algo/25-09-24 COURS 3.md",
+                "file": "Algo/23-09-24 COURS 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algo/25-09-24 COURS 3.md",
+                "file": "Algo/23-09-24 COURS 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algo/25-09-24 COURS 3.md"
+                "file": "Algo/23-09-24 COURS 1.md"
               }
             }
           }
@@ -159,15 +183,18 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "78b95ab613cddb9e",
+  "active": "a21b396e1bac8a75",
   "lastOpenFiles": [
-    "Algo/24-09-24 COURS 2.md",
+    "CASI LORRAINE/To do.md",
+    "CASI LORRAINE/26-09-24 Réunion de service.md",
     "Algo/25-09-24 COURS 3.md",
-    "Algo/FONCTIONS.md",
+    "Algo/24-09-24 COURS 2.md",
     "Algo/23-09-24 COURS 1.md",
-    "Module A/Séance 1.md",
-    "Veille/README.md",
     "Veille/Ressources web.md",
+    "Veille/README.md",
+    "CASI LORRAINE",
+    "Algo/FONCTIONS.md",
+    "Module A/Séance 1.md",
     "Algo - 2024-09-23.md",
     "Algo",
     "Veille/GITHUB.md",
