@@ -10,3 +10,4 @@
 - parfumerie prévoir promo
 - IIE / IFE
 		"former" sabrina
+* Mise en place GLPI - CASI

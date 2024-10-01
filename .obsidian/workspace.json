@@ -13,21 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/23-09-24 COURS 1 (Mr GAMORY).md",
+                "file": "Algo/30-09-2024 - (Mr QUIRIN).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "adf55772053e1c31",
+            "id": "46f631efdb3880a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algo/01-10-2023 (Mr DEMAY).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b11a0a2659479fcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algo/23-09-24 COURS 1 (Mr GAMORY).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,14 +171,18 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "05c961809641a8db",
+  "active": "b11a0a2659479fcf",
   "lastOpenFiles": [
-    "Algo/30-09-2024 - (Mr QUIRIN).md",
+    "Algo/01-10-2023 (Mr DEMAY).md",
+    "Algo/Installation GLPI -.md",
     "CASI LORRAINE/To do.md",
     "CASI LORRAINE/26-09-24 Réunion de service.md",
+    "Algo/to do mns.md",
+    "Sans titre",
+    "Algo/30-09-2024 - (Mr QUIRIN).md",
     "Algo/25-09-24 COURS 3 (Mr DEMAY).md",
-    "Algo/24-09-24 COURS 2 (Mr GAMORY).md",
     "Algo/23-09-24 COURS 1 (Mr GAMORY).md",
+    "Algo/24-09-24 COURS 2 (Mr GAMORY).md",
     "Veille/README.md",
     "Veille/Ressources web.md",
     "CASI LORRAINE",
@@ -188,7 +209,6 @@
     "ALGO/Sommaire.md",
     "Welcome.md",
     "ALGO",
-    "CSS",
-    "HTML"
+    "CSS"
   ]
 }

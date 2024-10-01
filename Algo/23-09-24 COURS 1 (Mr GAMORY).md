@@ -1,4 +1,6 @@
 
+	# C:\Users\Quent\OneDrive\Bureau\MNS\Mr_GAMORY
+
 Git clone “URL”  = “prise de note dmy” 
 
 # # (1a 6) “titre” 
@@ -198,3 +200,4 @@ print("Bonjour")
 
 ***else : (sinon)*** print ("Aurevoir")
 
+	# C:\Users\Quent\OneDrive\Bureau\MNS\Mr_GAMORY

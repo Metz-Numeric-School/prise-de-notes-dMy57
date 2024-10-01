@@ -1,5 +1,6 @@
 # BOUCLE FOR
 
+	# C:\Users\Quent\OneDrive\Bureau\MNS\Mr_GAMORY
 
 for **i** in range (start, end) : 
 instruction
@@ -97,3 +98,7 @@ def somme (a, b):
 return a + b - resultat = somme (5.2) 
 
 valeurs qu'on peut stocker et procédure qu'on ne peut pas stocke 
+
+	# C:\Users\Quent\OneDrive\Bureau\MNS\Mr_GAMORY
+
+

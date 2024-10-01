@@ -1,5 +1,8 @@
 # GESTION DU PARC INFORMATIQUE
 
+
+	# C:\Users\Quent\OneDrive\Bureau\MNS\Mr_DEMAY
+
 - Un serv infos sert à gérer des problèmes réseau dans une entreprise
 
 ### Rôle du gestionnaire réseau :
@@ -36,6 +39,10 @@ Le gestionnaire réseau a plusieurs responsabilités clés :
 SI = système d'informations
 GTR = gestion du temps de rétablissement
 GTI =  garanti du temps d'intervention 
+
+		C:\Users\Quent\OneDrive\Bureau\MNS\Mr_DEMAY
+
+
 
 
 
