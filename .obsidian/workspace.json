@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05c961809641a8db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/30-09-2024 - (Mr QUIRIN).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46f631efdb3880a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algo/01-10-2023 (Mr DEMAY).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b11a0a2659479fcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algo/23-09-24 COURS 1 (Mr GAMORY).md",
+                "file": "MNS/02-10-2023 (Mr DEMAY).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algo/23-09-24 COURS 1 (Mr GAMORY).md",
+                "file": "MNS/02-10-2023 (Mr DEMAY).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algo/23-09-24 COURS 1 (Mr GAMORY).md",
+                "file": "MNS/02-10-2023 (Mr DEMAY).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algo/23-09-24 COURS 1 (Mr GAMORY).md"
+                "file": "MNS/02-10-2023 (Mr DEMAY).md"
               }
             }
           }
@@ -173,16 +148,26 @@
   },
   "active": "b11a0a2659479fcf",
   "lastOpenFiles": [
-    "Algo/01-10-2023 (Mr DEMAY).md",
+    "MNS/30-09-2024 - (Mr QUIRIN).md",
+    "MNS/25-09-24 COURS 3 (Mr DEMAY).md",
+    "MNS/to do mns.md",
+    "MNS/02-10-2023 (Mr DEMAY).md",
+    "ISHIKAWA.png",
+    "ROUE DE DEMING.png",
+    "QQCOQP.png",
+    "MNS/01-10-2023 (Mr DEMAY).md",
+    "MNS/24-09-24 COURS 2 (Mr GAMORY).md",
+    "Pasted image 20241002154946.png",
+    "Pasted image 20241002152711.png",
+    "Pasted image 20241002152714.png",
+    "Pasted image 20241002154243.png",
+    "Pasted image 20241002152707.png",
+    "MNS",
+    "Algo/Sans titre.md",
+    "MNS/23-09-24 COURS 1 (Mr GAMORY).md",
     "Algo/Installation GLPI -.md",
     "CASI LORRAINE/To do.md",
     "CASI LORRAINE/26-09-24 Réunion de service.md",
-    "Algo/to do mns.md",
-    "Sans titre",
-    "Algo/30-09-2024 - (Mr QUIRIN).md",
-    "Algo/25-09-24 COURS 3 (Mr DEMAY).md",
-    "Algo/23-09-24 COURS 1 (Mr GAMORY).md",
-    "Algo/24-09-24 COURS 2 (Mr GAMORY).md",
     "Veille/README.md",
     "Veille/Ressources web.md",
     "CASI LORRAINE",
@@ -207,7 +192,6 @@
     "Veille",
     "Cours",
     "ALGO/Sommaire.md",
-    "Welcome.md",
     "ALGO",
     "CSS"
   ]
