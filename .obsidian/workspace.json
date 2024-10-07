@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 340.5
   },
   "right": {
     "id": "78f6df6de190eea1",
@@ -161,29 +161,30 @@
   },
   "active": "63139a4c21ee942d",
   "lastOpenFiles": [
-    "MNS/01-10-2023 (Mr DEMAY).md",
+    "CASI LORRAINE/To do.md",
+    "CASI LORRAINE/26-09-24 Réunion de service.md",
+    "IMAGES/ISHIKAWA.png",
+    "IMAGES/Pasted image 20241006145533.png",
+    "IMAGES",
     "MNS/02-10-2023 (Mr DEMAY).md",
-    "MNS/25-09-24 COURS 3 (Mr DEMAY).md",
+    "IMAGES/Pasted image 20241007162741.png",
+    "IMAGES/Pasted image 20241007162543.png",
+    "IMAGES/Pasted image 20241007162507.png",
+    "IMAGES/Pasted image 20241007162427.png",
+    "IMAGES/Pasted image 20241007162344.png",
+    "IMAGES/Pasted image 20241007162319.png",
     "MNS/07-10-2024 (Mr BECKER).md",
-    "Pasted image 20241006153637.png",
-    "Pasted image 20241006153539.png",
-    "Pasted image 20241006152709.png",
-    "Pasted image 20241006150922.png",
-    "Pasted image 20241006145533.png",
+    "MNS/25-09-24 COURS 3 (Mr DEMAY).md",
+    "MNS/01-10-2023 (Mr DEMAY).md",
+    "IMAGES/Pasted image 20241006153637.png",
+    "IMAGES/Pasted image 20241006153539.png",
     "MNS/to do mns.md",
     "MNS/30-09-2024 - (Mr QUIRIN).md",
     "MNS/23-09-24 COURS 1 (Mr GAMORY).md",
-    "Pasted image 20241006153958.png",
-    "Pasted image 20241006153934.png",
-    "Pasted image 20241006153751.png",
-    "ISHIKAWA.png",
-    "ROUE DE DEMING.png",
     "MNS/24-09-24 COURS 2 (Mr GAMORY).md",
     "MNS",
     "Algo/Sans titre.md",
     "Algo/Installation GLPI -.md",
-    "CASI LORRAINE/To do.md",
-    "CASI LORRAINE/26-09-24 Réunion de service.md",
     "Veille/README.md",
     "Veille/Ressources web.md",
     "CASI LORRAINE",
@@ -207,7 +208,6 @@
     "Module A",
     "Veille",
     "Cours",
-    "ALGO",
-    "CSS"
+    "ALGO"
   ]
 }
