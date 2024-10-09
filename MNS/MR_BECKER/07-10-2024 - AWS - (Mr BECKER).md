@@ -185,6 +185,16 @@ Pq AWS est-il plus économique que les centres de données traditionnels pour le
 	Les instances Amazon EC2 peuvent être lancées à la demande, lorsque que cela est nécessaire.
 
 
+
+
+
+
+
+
+
+
+
+
 # MODULE 2 
 
 ### Couts du cloud et facturation 
@@ -200,7 +210,9 @@ Tarifs dégressifs selon l'utilisation
 
 
 ---
-# MODULE 6 - Services des calculs AWS
+# MODULE 6 
+
+## Services des calculs AWS
 
 - **Amazon Elastic Compute Cloud (EC2)** *fournit des machines virtuelles redimensionnables
 - **EC2 auto scaling** *soutient la disponibilités des applications en vous permettant de définir des conditions qui lanceront ou arrêteront automatiquement les instances EC2*

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e6e494bcf6c89ba5",
+        "id": "14740abd3edb92a9",
         "type": "tabs",
         "children": [
           {
-            "id": "1e181cab3ec9613c",
+            "id": "ee305e8241373142",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/07-10-2024 - AWS - (Mr BECKER).md",
+                "file": "MNS/MME_FINGE/09-10-2024 - Culture Juridique - (Mme ROMANI).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 271.5
   },
   "right": {
     "id": "78f6df6de190eea1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MNS/07-10-2024 - AWS - (Mr BECKER).md",
+                "file": "MNS/MME_FINGE/09-10-2024 - Culture Juridique - (Mme ROMANI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MNS/07-10-2024 - AWS - (Mr BECKER).md",
+                "file": "MNS/MME_FINGE/09-10-2024 - Culture Juridique - (Mme ROMANI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MNS/07-10-2024 - AWS - (Mr BECKER).md"
+                "file": "MNS/MME_FINGE/09-10-2024 - Culture Juridique - (Mme ROMANI).md"
               }
             }
           }
@@ -147,33 +146,39 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "1e181cab3ec9613c",
+  "active": "ee305e8241373142",
   "lastOpenFiles": [
-    "MNS/02-10-2023 - MAINTENANCES (Mr DEMAY).md",
-    "MNS/01-10-2023 - GLPI - (Mr DEMAY).md",
+    "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md",
     "MNS/Définitions -.md",
-    "MNS/07-10-2024 - AWS - (Mr BECKER).md",
-    "IMAGES/Pasted image 20241008092247.png",
+    "MNS/MME_FINGE/09-10-2024 - Culture Juridique - (Mme ROMANI).md",
+    "MNS/MR_GAMORY/23-09-24 COURS 1 (Mr GAMORY).md",
+    "CASI LORRAINE/26-09-24 Réunion de service.md",
+    "IMAGES/Pasted image 20241006150922.png",
+    "IMAGES/Pasted image 20241006145533.png",
+    "IMAGES/Pasted image 20241009093502.png",
+    "MNS/MR_DEMAY/01-10-2023 - GLPI - (Mr DEMAY).md",
+    "MNS/MR_DEMAY/25-09-24 COURS 3 - GESTION DE PARC - (Mr DEMAY).md",
+    "MNS/MR_DEMAY/02-10-2023 - MAINTENANCES (Mr DEMAY).md",
+    "MNS/to do mns.md",
     "MNS/^.md",
+    "MNS/MME_FINGE",
+    "MNS/MR_GAMORY/24-09-24 COURS 2 (Mr GAMORY).md",
+    "MNS/MR_BECKER",
+    "MNS/MR_QUIRIN",
+    "MNS/MR_GAMORY",
+    "MNS/MR_DEMAY",
+    "IMAGES/Pasted image 20241008092247.png",
     "IMAGES/Pasted image 20241008160252.png",
     "IMAGES/Pasted image 20241008155318.png",
     "IMAGES/Pasted image 20241008154757.png",
     "IMAGES/Pasted image 20241008143225.png",
     "IMAGES/Pasted image 20241008142152.png",
     "IMAGES/Pasted image 20241008134509.png",
-    "MNS/23-09-24 COURS 1 (Mr GAMORY).md",
-    "MNS/to do mns.md",
-    "IMAGES/Pasted image 20241008094758.png",
     "MNS/Définitions.md",
-    "MNS/30-09-2024 - (Mr QUIRIN).md",
+    "MNS/MR_QUIRIN/30-09-2024 - (Mr QUIRIN).md",
     "MNS/Definitions.md",
     "MNS/Docker.md",
-    "MNS/24-09-24 COURS 2 (Mr GAMORY).md",
-    "MNS/25-09-24 COURS 3 - GESTION DE PARC - (Mr DEMAY).md",
     "CASI LORRAINE/To do.md",
-    "CASI LORRAINE/26-09-24 Réunion de service.md",
-    "IMAGES/ISHIKAWA.png",
-    "IMAGES/Pasted image 20241006145533.png",
     "IMAGES",
     "MNS",
     "Algo/Sans titre.md",
@@ -187,15 +192,9 @@
     "Algo",
     "Veille/GITHUB.md",
     "Cours/Algo/Sans titre.md",
-    "2024-09-24.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
-    "Cours/Algo",
-    "Cours/Sans titre 1",
-    "Module A",
-    "Veille",
-    "Cours",
-    "ALGO"
+    "Cours/Algo"
   ]
 }
