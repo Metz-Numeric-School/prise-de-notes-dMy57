@@ -186,15 +186,6 @@ Pq AWS est-il plus économique que les centres de données traditionnels pour le
 
 
 
-
-
-
-
-
-
-
-
-
 # MODULE 2 
 
 ### Couts du cloud et facturation 
