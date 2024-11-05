@@ -90,7 +90,9 @@ Cloud privée :
 - Dans la plus part des cas même modèle de déploiement qu'une infrastructure "traditionnelle" 
 #### Similitude entre AWS et l'informatique "traditionnelle"
 
-			![[Pasted image 20241008143225.png]]
+
+![[Pasted image 20241019172934.png]]
+
 
 ## AVANTAGES DU CLOUD COMPUTING
 
@@ -132,17 +134,17 @@ Plusieurs outils différents (calculs, stockage, gestion et de gouvernance, Séc
 Chaque catégorie contient un ou plusieurs services 
 - On peux choisir le service qu'on souhaite pour élaborer des solutions
 
-			![[Pasted image 20241008154757.png]]
+![[Pasted image 20241019172711.png]]
 
 #### Choix d'un service : 
-	
-				![[Pasted image 20241008155318.png]]
-[[#MODULE 6 - Services des calculs AWS]]
+![[Pasted image 20241019172739.png]]
+
+### MODULE 6 - Services des calculs AWS
 
 Elastic container / Elastic Kubernetes / AWS Fargate sont utilisés pour une architecture de conteneurs ou de micro-services
 #### Services couverts dans ce cours (fondamentaux / les plus courant)
 
-				![[Pasted image 20241008160252.png]]
+![[Pasted image 20241019173201.png]]
 
 Trois moyen d'interagir avec AWS : 
 
@@ -188,7 +190,7 @@ Pq AWS est-il plus économique que les centres de données traditionnels pour le
 
 # MODULE 2 
 
-### Couts du cloud et facturation 
+## Couts du cloud et facturation 
 
 Trois facteurs fondamentaux de coûts avec AWS : 
 Modèle de tarification ( calcul, stockage, transfert de données)
@@ -199,8 +201,30 @@ Payez seulement les services que vous utilisez, sans frais initiaux excessif
 
 Tarifs dégressifs selon l'utilisation  
 
+![[Pasted image 20241019174933.png]]
+
+![[Pasted image 20241019175054.png]]
+
+![[Pasted image 20241019175213.png]]
+
+![[Pasted image 20241019175414.png]]
+
+![[Pasted image 20241019175443.png]]
+
+![[Pasted image 20241019175512.png]]
+
+![[Pasted image 20241019175534.png]]
+
+![[Pasted image 20241019175611.png]]
+
 
 ---
+## Cout total de possession
+
+
+
+
+
 # MODULE 6 
 
 ## Services des calculs AWS

@@ -13,26 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/to do mns.md",
+                "file": "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "07-10-2024 - AWS - (Mr BECKER)"
             }
           },
           {
-            "id": "27de1d15c93e2c78",
+            "id": "6eeee603b0b3544e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/MME_FINGE/09-10-224 - ANGLAIS (Mme FINGE).md",
+                "file": "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "07-10-2024 - AWS - (Mr BECKER)"
             }
           },
           {
-            "id": "9202558750c95238",
+            "id": "fdfaa19182c6c755",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -40,7 +44,9 @@
                 "file": "MNS/MR_GAMORY/23-09-24 COURS 1 (Mr GAMORY).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "23-09-24 COURS 1 (Mr GAMORY)"
             }
           }
         ],
@@ -64,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -79,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
             }
           },
           {
@@ -87,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
             }
           }
         ]
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MNS/MR_GAMORY/23-09-24 COURS 1 (Mr GAMORY).md",
+                "file": "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour 07-10-2024 - AWS - (Mr BECKER)"
             }
           },
           {
@@ -127,10 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MNS/MR_GAMORY/23-09-24 COURS 1 (Mr GAMORY).md",
+                "file": "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de 07-10-2024 - AWS - (Mr BECKER)"
             }
           },
           {
@@ -141,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
             }
           },
           {
@@ -150,8 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MNS/MR_GAMORY/23-09-24 COURS 1 (Mr GAMORY).md"
-              }
+                "file": "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md"
+              },
+              "icon": "lucide-list",
+              "title": "Plan de 07-10-2024 - AWS - (Mr BECKER)"
             }
           }
         ]
@@ -171,25 +191,35 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "9202558750c95238",
+  "active": "fdfaa19182c6c755",
   "lastOpenFiles": [
-    "MNS/MME_FINGE/14-10-2024 - GRAMMAR - (Mme FINGE).md",
+    "MNS/MR_BECKER/04-11-2024 - ARCHITECTURE RESEAUX - (Mr BECKER).md",
+    "PJ/Pasted image 20241104163632.png",
+    "PJ/Pasted image 20241104162201.png",
+    "PJ/Pasted image 20241104161622.png",
+    "PJ/Pasted image 20241104161512.png",
+    "PJ/Pasted image 20241104160809.png",
+    "PJ/Pasted image 20241104160732.png",
+    "PJ/Pasted image 20241104160024.png",
+    "PJ/Pasted image 20241104114004.png",
+    "PJ/Pasted image 20241104113945.png",
+    "PJ/thumbnail_IMG_3618 1.jpg",
     "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md",
-    "MNS/MME_FINGE/09-10-224 - ANGLAIS (Mme FINGE).md",
-    "Pasted image 20241014092539.png",
+    "MNS/MR_DEMAY/01-10-2023 - GLPI - (Mr DEMAY).md",
+    "MNS/MR_DEMAY/02-10-2023 - MAINTENANCES (Mr DEMAY).md",
+    "PJ",
+    "MNS/MR_BECKER/[.md",
+    "MNS/MR_DEMAY/15-10-2024 - WINDOWS SERVEUR AVANCE (MR  DEMAY).md",
+    "MNS/MR_DEMAY/25-09-24 COURS 3 - GESTION DE PARC - (Mr DEMAY).md",
     "MNS/to do mns.md",
+    "MNS/MME_FINGE/09-10-224 - ANGLAIS (Mme FINGE).md",
+    "MNS/MR_GAMORY/23-09-24 COURS 1 (Mr GAMORY).md",
+    "MNS/MME_FINGE/14-10-2024 - GRAMMAR - (Mme FINGE).md",
     "MNS/MME_ROMANI/09-10-2024 - Culture Juridique - (Mme ROMANI).md",
     "Sans titre",
     "MNS/MME_FINGE",
     "MNS/Définitions -.md",
-    "MNS/MR_GAMORY/23-09-24 COURS 1 (Mr GAMORY).md",
     "CASI LORRAINE/26-09-24 Réunion de service.md",
-    "IMAGES/Pasted image 20241006150922.png",
-    "IMAGES/Pasted image 20241006145533.png",
-    "IMAGES/Pasted image 20241009093502.png",
-    "MNS/MR_DEMAY/01-10-2023 - GLPI - (Mr DEMAY).md",
-    "MNS/MR_DEMAY/25-09-24 COURS 3 - GESTION DE PARC - (Mr DEMAY).md",
-    "MNS/MR_DEMAY/02-10-2023 - MAINTENANCES (Mr DEMAY).md",
     "MNS/^.md",
     "MNS/MME_ROMANI",
     "MNS/MR_GAMORY/24-09-24 COURS 2 (Mr GAMORY).md",
@@ -197,12 +227,6 @@
     "MNS/MR_QUIRIN",
     "MNS/MR_GAMORY",
     "MNS/MR_DEMAY",
-    "IMAGES/Pasted image 20241008092247.png",
-    "IMAGES/Pasted image 20241008160252.png",
-    "IMAGES/Pasted image 20241008155318.png",
-    "IMAGES/Pasted image 20241008154757.png",
-    "IMAGES/Pasted image 20241008143225.png",
-    "IMAGES/Pasted image 20241008142152.png",
     "MNS/Définitions.md",
     "MNS/MR_QUIRIN/30-09-2024 - (Mr QUIRIN).md",
     "MNS/Definitions.md",
@@ -214,10 +238,6 @@
     "Algo/Installation GLPI -.md",
     "Veille/README.md",
     "Veille/Ressources web.md",
-    "CASI LORRAINE",
-    "Algo/FONCTIONS.md",
-    "Module A/Séance 1.md",
-    "Algo - 2024-09-23.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"

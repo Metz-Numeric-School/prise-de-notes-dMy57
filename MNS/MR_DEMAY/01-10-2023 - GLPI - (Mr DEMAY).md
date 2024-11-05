@@ -37,6 +37,7 @@ GLPI permet aussi le suivi :
 
 Utilisateurs on accès seulement à "Assistance" pour créer et suivre ses tickets.
 
+---
 
 VMWARE : (problème connexion)
 - supp tt les cartes réseaux

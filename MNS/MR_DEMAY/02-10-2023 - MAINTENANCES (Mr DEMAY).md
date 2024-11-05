@@ -59,7 +59,7 @@ Il faut définir les critères de choix :
 
 * Il faut vérifier si certaines machines n'en sont pas exclus d'office, du fait d'actions à venir, comme par exemple : la machine sera ferraillée ou rénovée sous peu.
 
-# L'APPRECIATION DU RISQUE : 
+#### L'APPRECIATION DU RISQUE : 
 
 **Le premier critère de choix** est l'importance des conséquences ou répercutions d'une panne.
 Certains équipements ou machines ne doivent pas tomber en panne, car les conséquences économiques, qualitatives ou environnementales sont importantes :
@@ -79,7 +79,7 @@ Certains équipements ou machines ne doivent pas tomber en panne, car les consé
 Plan de continuité d'activité (PCA), **a pour but de garantir la survie de l'entreprise en cas de sinistre important touchant le système informatique**. 
 Il s'agit de redémarrer l'activité le plus rapidement possible avec le minimum de perte de données.
 
-# L'IMPORTANCE DE LA MACHINE
+#### L'IMPORTANCE DE LA MACHINE
 
 **Le second critère** de choix et l'importance de a machine ou de l'équipement considéré.
 
@@ -88,7 +88,7 @@ Si cette ressource est rare et **"précieuse"** , stratégique pour l'entreprise
 A l'opposé, si la machine est banale, que sa charge peut aisément être transférée vers une autre machine ou vers la sous-traitance, cette ressource sera considérée peu importante. 
 Il est clair que la politique de maintenance sera radicalement différente entre ces deux cas.
 
-# LA CHARGE DE LA MACHINE 
+####  LA CHARGE DE LA MACHINE 
 
 **Le troisième critère** à prendre en compte est la charge relative de la machine.
 
@@ -213,6 +213,7 @@ moyen mnémotechnique : **CQQCOQP** **(c q q c o q p)**
 | C      | Comment, par quel procédé                               | Procédures, technique, acttion, moyen matériel |
 | C      | Combien                                                 | Quantités, budget                              |
 | P      | Pourquoi                                                | Justification, raison d'être                   |
+|        |                                                         |                                                |
 ![[QQCOQP.png]]
 
 ---
