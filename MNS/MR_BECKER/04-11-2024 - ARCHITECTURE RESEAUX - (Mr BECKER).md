@@ -142,11 +142,17 @@ Le standard IEEE 802.1Q définit le contenu de la balise de [VLAN](https://fr.w
 
 
 ctrl+z / wr (pour save)
-conf t (pour rentrer mode modif)
+configure terminale - conf t (pour rentrer mode modif)
+enable - en (activer les modif)
 
 ### Config switch : 
+(à faire sur tous les switchs)
 
 ![[Pasted image 20241104160809.png]]
+
+Configuration autre sw (non principal)
+
+![[Pasted image 20241105095421.png]]
 
 Retour switch 1 (serveur) saisit VLAN 
 
@@ -156,7 +162,7 @@ Vérif des VLAN :
 
 ![[Pasted image 20241104161622.png]]
 
-Passer en mode trunk : 
+mode trunk : (à faire sur tous les switch) 
 
 ![[Pasted image 20241104162201.png]]
 
@@ -169,4 +175,44 @@ switch acces vlan 10 / 20 / 30 etc ...
 
 ### Création interface virtuelle routeur
 
-Sous interface virtuelle (rooteur) = G0/0/1 = G0/0/1.10 (VLAN10) .20 (VLAN20) etc ... 
+***Sous interface virtuelle (rooteur) = G0/0/1 = G0/0/1.10 (VLAN10) .20 (VLAN20) etc ... ***
+
+Enable -> Configure terminal (conf t) -> Host R-1 -> int G0/0/1 -> no shut -> exit 
+
+---
+Création des sous interfaces : 
+
+int G0/0/1.10 (vlan10)
+
+![[Pasted image 20241105085903.png]]
+
+Ip add (vlan10) : 
+
+SOUS INTERFACE : 
+
+int G0/0/1.10
+encapsulation dot 10
+remettre ip add : 172.16.0.254 255.255.255.0
+exit 
+
+![[Pasted image 20241105094026.png]]
+
+int G0/0/1.20 
+enc dot 20
+ip add 
+exit 
+
+![[Pasted image 20241105094435.png]]
+
+**creation bloc note** puis copier / coller (dans CLI routeur)
+
+![[Pasted image 20241105094449.png]]
+
+faire ping les différents appareils entre eux pc / imprimantes /  etc .. 
+
+ipconfig -> ping la passerelle de chq vlan
+ping les ip des imprimantes depuis un cmd
+
+
+
+
