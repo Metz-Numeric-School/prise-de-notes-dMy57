@@ -135,8 +135,7 @@ Avec WinPE :
 3. **Specialize** : Configure les paramètres réseau et de domaine 
 4. **OOBE (Out-of-Box Experience)** : Définit les paramètres utilisateur, comme le compte administrateur et le fuseau horaire
 
-**L'outil WSIM :**
-- Windows System Image Manager 
+**L'outil WSIM :** - Windows System Image Manager 
 - Inclus dans le kit ADK 
 - Permet de créer et personnaliser les fichiers de réponse
 
@@ -149,7 +148,21 @@ Vous pouvez utiliser Sysprep seul ou Sysprep avec un fichier de réponses Unatte
 
 ## SYNTHESE DEPLOIEMENT D'IMAGE :
 
+- Le déploiement automatisé de Windows est un pilier essentiel pour gérer efficacement les parcs informatiques en entreprise. 
+- Plusieurs méthodes de déploiement existent, chacune adaptée à des besoins spécifiques. 
+-  Microsoft fournit des outils puissants comme WinPE, DISM et SYSPREP pour simplifier le processus.
+- WinPE est un outil essentiel pour déployer et dépanner Windows. 
+- La création d'une clé USB bootable est une compétence fondamentale pour les administrateurs
+- Les outils ADK, DiskPart, et à exécuter les commandes nécessaires. 
+- Le clonage permet d’accélérer le déploiement et d’uniformiser les configurations. 
+- Le format WIM est flexible et efficace pour stocker plusieurs images
 
+* Les fichiers unattend.xml permettent une installation entièrement automatisée et personnalisée de Windows. • 
+- SYSPREP est essentiel pour la préparation d’images généralisées avant le déploiement. 
+-  La combinaison des deux outils offre une solution puissante pour les environnements professionnels. • 
+- DISM est un outil puissant pour gérer et déployer des images Windows dans des environnements professionnels. 
+- La capture et le déploiement d’images standardisées améliorent l’efficacité et réduisent les erreurs. 
+- La maîtrise de DISM est essentielle pour les administrateurs système travaillant avec Windows.
 
 
 

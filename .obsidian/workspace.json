@@ -164,18 +164,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Ouvrir la palette de commandes": false
     }
   },
   "active": "6caa8fb1f3ddad78",
   "lastOpenFiles": [
     "MNS/MR_JACQUEMIN/20-11-2024 - Mr JACQUEMIN - W CLIENT AVANCEE.md",
+    "CASI LORRAINE/To do.md",
+    "CASI LORRAINE/26-09-24 Réunion de service.md",
     "MNS/MR_JACQUEMIN/04 - 12 - 2024 - MR JACQUEMIN - W CLIENTS AVANCEE.md",
     "PJ/Pasted image 20241204135726.png",
     "PJ/Pasted image 20241204133611.png",
@@ -204,7 +206,6 @@
     "MNS/MME_FINGE/13-11-2024 - ANGLAIS - MME FINGE.md",
     "MNS/MME_FINGE/14-10-2024 - GRAMMAR - (Mme FINGE).md",
     "MNS/MME_FINGE/09-10-224 - ANGLAIS (Mme FINGE).md",
-    "MNS/MME_ROMANI/09-10-2024 - Culture Juridique - (Mme ROMANI).md",
     "PJ/Pasted image 20241106155752.png",
     "PJ/Pasted image 20241106155738.png",
     "PJ/Pasted image 20241106155635.png",
