@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7f016458e3356272",
+        "id": "1ccf9f7da79d6ffb",
         "type": "tabs",
         "children": [
           {
-            "id": "483845d51ed7c32b",
+            "id": "6caa8fb1f3ddad78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/MME_FINGE/19-11-2024 - ANGLAIS - RECAP.md",
+                "file": "MNS/MR_JACQUEMIN/04 - 12 - 2024 - MR JACQUEMIN - W CLIENTS AVANCEE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19-11-2024 - ANGLAIS - RECAP"
-            }
-          },
-          {
-            "id": "36fc9b860f93a0f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MNS/MR_GAMORY/23-09-24 COURS 1 (Mr GAMORY).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "23-09-24 COURS 1 (Mr GAMORY)"
+              "title": "04 - 12 - 2024 - MR JACQUEMIN - W CLIENTS AVANCEE"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -92,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 275.5
   },
   "right": {
     "id": "78f6df6de190eea1",
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md",
+                "file": "MNS/MR_JACQUEMIN/04 - 12 - 2024 - MR JACQUEMIN - W CLIENTS AVANCEE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour 07-10-2024 - AWS - (Mr BECKER)"
+              "title": "Rétrolien pour 04 - 12 - 2024 - MR JACQUEMIN - W CLIENTS AVANCEE"
             }
           },
           {
@@ -127,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md",
+                "file": "MNS/MR_JACQUEMIN/04 - 12 - 2024 - MR JACQUEMIN - W CLIENTS AVANCEE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Liens sortants de 07-10-2024 - AWS - (Mr BECKER)"
+              "title": "Liens sortants de 04 - 12 - 2024 - MR JACQUEMIN - W CLIENTS AVANCEE"
             }
           },
           {
@@ -142,7 +127,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "Mots-clés"
@@ -159,13 +144,23 @@
               "icon": "lucide-list",
               "title": "Plan de 07-10-2024 - AWS - (Mr BECKER)"
             }
+          },
+          {
+            "id": "8e36b634f44a0f29",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,27 +169,42 @@
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36fc9b860f93a0f3",
+  "active": "6caa8fb1f3ddad78",
   "lastOpenFiles": [
+    "MNS/MR_JACQUEMIN/20-11-2024 - Mr JACQUEMIN - W CLIENT AVANCEE.md",
+    "MNS/MR_JACQUEMIN/04 - 12 - 2024 - MR JACQUEMIN - W CLIENTS AVANCEE.md",
+    "PJ/Pasted image 20241204135726.png",
+    "PJ/Pasted image 20241204133611.png",
+    "MNS/MR_BECKER/05-11-2024 - ROOTER ON STICK - (Mr BECKER).md",
+    "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md",
+    "MNS/MR_ROLLAND/07 - Transformation de Server1 en Serveur DHCP avec Kea.md",
+    "MNS/MR_ROLLAND/09 - Installation de Services Web.md",
+    "MNS/MR_ROLLAND/08 - Transformation de Server2 en Serveur LAMP.md",
+    "MNS/MR_ROLLAND/06 - Transformation de Server1 en Serveur DNS (1).md",
+    "MNS/MR_ROLLAND/06 - Transformation de Server1 en Serveur DNS.md",
+    "MNS/MR_ROLLAND/07 - Transformation de Server1 en Serveur DHCP avec Kea (1).md",
+    "MNS/MR_ROLLAND/05 - Transformation de Server1 en Passerelle Réseau.md",
+    "MNS/MR_ROLLAND/02 - Configuration des Interfaces Réseau.md",
+    "MNS/MR_ROLLAND/01 - Installation et Configuration du Laboratoire.md",
+    "MNS/MR_GAMORY/23-09-24 COURS 1 (Mr GAMORY).md",
+    "MNS/MR_ROLLAND/README.md",
+    "MNS/MR_ROLLAND/LICENSE",
+    "MNS/MR_ROLLAND/CONCLUSION.md",
+    "MNS/MR_ROLLAND/04 -  Mise à Jour de Server1.md",
+    "MNS/MR_ROLLAND/03 - Connexion SSH aux Serveurs.md",
     "MNS/MR_GAMORY/24-09-24 COURS 2 (Mr GAMORY).md",
     "MNS/MME_FINGE/19-11-2024 - ANGLAIS - RECAP.md",
+    "MNS/MR_ROLLAND/25-11-2024 - MR ROLLAND - POWER SHELL.md",
+    "MNS/MR_ROLLAND",
+    "MNS/MR_JACQUEMIN",
     "MNS/MME_FINGE/13-11-2024 - ANGLAIS - MME FINGE.md",
     "MNS/MME_FINGE/14-10-2024 - GRAMMAR - (Mme FINGE).md",
     "MNS/MME_FINGE/09-10-224 - ANGLAIS (Mme FINGE).md",
     "MNS/MME_ROMANI/09-10-2024 - Culture Juridique - (Mme ROMANI).md",
-    "MNS/MR_BECKER/05-11-2024 - ROOTER ON STICK - (Mr BECKER).md",
-    "MNS/MR_DEMAY/18-11-2024 - Conception PI-2 Mr Demay.md",
-    "MNS/MR_DEMAY/02-10-2023 - MAINTENANCES (Mr DEMAY).md",
-    "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md",
-    "MNS/MR_BECKER/Sans titre.md",
-    "MNS/MME_FINGE/12-11-2024 -.md",
-    "MNS/MR_DEMAY/06-11-2024 - CONCEPTION PI (Mr DEMAY).md",
-    "MNS/MR_DEMAY/25-09-24 COURS 3 - GESTION DE PARC - (Mr DEMAY).md",
-    "MNS/MR_DEMAY/01-10-2023 - GLPI - (Mr DEMAY).md",
-    "MNS/MR_GAMORY/23-09-24 COURS 1 (Mr GAMORY).md",
     "PJ/Pasted image 20241106155752.png",
     "PJ/Pasted image 20241106155738.png",
     "PJ/Pasted image 20241106155635.png",
@@ -203,28 +213,13 @@
     "PJ/Pasted image 20241106155522.png",
     "PJ/Pasted image 20241106155444.png",
     "PJ/Pasted image 20241106155403.png",
-    "PJ/Pasted image 20241106155332.png",
-    "PJ/Pasted image 20241106155308.png",
-    "MNS/MR_DEMAY/15-10-2024 - WINDOWS SERVEUR AVANCE (MR  DEMAY).md",
-    "MNS/MR_BECKER/555.md",
-    "MNS/MR_QUIRIN/30-09-2024 - (Mr QUIRIN).md",
-    "MNS/Définitions -.md",
-    "MNS/MR_BECKER/04-11-2024 - ARCHITECTURE RESEAUX - (Mr BECKER).md",
     "PJ",
-    "MNS/MR_BECKER/[.md",
-    "MNS/to do mns.md",
-    "Sans titre",
     "MNS/MME_FINGE",
-    "CASI LORRAINE/26-09-24 Réunion de service.md",
-    "MNS/^.md",
     "MNS/MME_ROMANI",
     "MNS/MR_BECKER",
     "MNS/MR_QUIRIN",
     "MNS/MR_GAMORY",
     "MNS/MR_DEMAY",
-    "MNS/Définitions.md",
-    "IMAGES",
-    "MNS",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"
