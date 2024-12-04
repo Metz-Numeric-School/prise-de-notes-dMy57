@@ -11,7 +11,7 @@ Contexte d'utilisation :
 
 Installation manuelle : 
 - Adapté pour des besoins ponctuels
-- Longue et sujette à des erreurs humaines
+- Longue et sujette à des erreurs humainesm
 - Pas scalable
 
 Clonage systèmes :
