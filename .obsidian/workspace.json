@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6caa8fb1f3ddad78",
+            "id": "d4466599d9cb5c6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/MR_JACQUEMIN/04 - 12 - 2024 - MR JACQUEMIN - W CLIENTS AVANCEE.md",
+                "file": "MNS/MR_BECKER/PNET LAB COMMANDES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 - 12 - 2024 - MR JACQUEMIN - W CLIENTS AVANCEE"
+              "title": "PNET LAB COMMANDES"
+            }
+          },
+          {
+            "id": "b454d58a53bc5648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MNS/MR_BECKER/04-11-2024 - ARCHITECTURE RESEAUX - (Mr BECKER).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04-11-2024 - ARCHITECTURE RESEAUX - (Mr BECKER)"
             }
           }
         ]
@@ -77,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 384.5
   },
   "right": {
     "id": "78f6df6de190eea1",
@@ -173,16 +187,22 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "6caa8fb1f3ddad78",
+  "active": "d4466599d9cb5c6e",
   "lastOpenFiles": [
+    "MNS/MR_BECKER/05-11-2024 - ROOTER ON STICK - (Mr BECKER).md",
+    "MNS/MR_BECKER/04-11-2024 - ARCHITECTURE RESEAUX - (Mr BECKER).md",
+    "MNS/MR_BECKER/PNET LAB COMMANDES.md",
+    "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md",
+    "MNS/MR_DEMAY/01-10-2023 - GLPI - (Mr DEMAY).md",
+    "MNS/MR_DEMAY/10-12-2024 - Remote App (Mr Demay).md",
+    "MNS/MR_DEMAY/02-10-2023 - MAINTENANCES (Mr DEMAY).md",
+    "MNS/MR_JACQUEMIN/04 - 12 - 2024 - MR JACQUEMIN - W CLIENTS AVANCEE.md",
+    "MNS/MR_DEMAY/15-10-2024 - WINDOWS SERVEUR AVANCE (MR  DEMAY).md",
     "MNS/MR_JACQUEMIN/20-11-2024 - Mr JACQUEMIN - W CLIENT AVANCEE.md",
     "CASI LORRAINE/To do.md",
     "CASI LORRAINE/26-09-24 Réunion de service.md",
-    "MNS/MR_JACQUEMIN/04 - 12 - 2024 - MR JACQUEMIN - W CLIENTS AVANCEE.md",
     "PJ/Pasted image 20241204135726.png",
     "PJ/Pasted image 20241204133611.png",
-    "MNS/MR_BECKER/05-11-2024 - ROOTER ON STICK - (Mr BECKER).md",
-    "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md",
     "MNS/MR_ROLLAND/07 - Transformation de Server1 en Serveur DHCP avec Kea.md",
     "MNS/MR_ROLLAND/09 - Installation de Services Web.md",
     "MNS/MR_ROLLAND/08 - Transformation de Server2 en Serveur LAMP.md",
@@ -198,14 +218,8 @@
     "MNS/MR_ROLLAND/CONCLUSION.md",
     "MNS/MR_ROLLAND/04 -  Mise à Jour de Server1.md",
     "MNS/MR_ROLLAND/03 - Connexion SSH aux Serveurs.md",
-    "MNS/MR_GAMORY/24-09-24 COURS 2 (Mr GAMORY).md",
-    "MNS/MME_FINGE/19-11-2024 - ANGLAIS - RECAP.md",
-    "MNS/MR_ROLLAND/25-11-2024 - MR ROLLAND - POWER SHELL.md",
     "MNS/MR_ROLLAND",
     "MNS/MR_JACQUEMIN",
-    "MNS/MME_FINGE/13-11-2024 - ANGLAIS - MME FINGE.md",
-    "MNS/MME_FINGE/14-10-2024 - GRAMMAR - (Mme FINGE).md",
-    "MNS/MME_FINGE/09-10-224 - ANGLAIS (Mme FINGE).md",
     "PJ/Pasted image 20241106155752.png",
     "PJ/Pasted image 20241106155738.png",
     "PJ/Pasted image 20241106155635.png",
