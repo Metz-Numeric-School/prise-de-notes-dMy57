@@ -1,4 +1,4 @@
-
+int
 Il faut un bloc de 256 adresses (pour les 200 postes / 50 postes = 64 / 25 = 32 / 10 = 16)
 
 SALES 200 postes  : **172.16.0.0 -> 172.16.0.255** / **24**
@@ -128,7 +128,7 @@ pinger la passerelle
 
 Autoriser le routage : conf t -> ip routing -> ctr z / wr -> reping le pc0 depuis le pc1 
 
-Activ l'interface rooteur (int G1/0/1)+ mettre ip 
+Activ l'interface routeur (int G1/0/1)+ mettre ip 
 
 ![[Pasted image 20241105115805.png]]
 
