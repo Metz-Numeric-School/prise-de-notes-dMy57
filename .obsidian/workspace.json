@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/MR_BECKER/05-11-2024 - ROOTER ON STICK - (Mr BECKER).md",
+                "file": "MNS/MR_BECKER/PNET LAB COMMANDES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-11-2024 - ROOTER ON STICK - (Mr BECKER)"
+              "title": "PNET LAB COMMANDES"
+            }
+          },
+          {
+            "id": "ad25ac72043e00b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MNS/MR_BECKER/07-01-2025 STP - (Mr BECKER).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07-01-2025 STP - (Mr BECKER)"
+            }
+          },
+          {
+            "id": "f370b866eefee637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MNS/MR_BECKER/ROOTAGE STATIC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ROOTAGE STATIC"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,12 +202,25 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "d4466599d9cb5c6e",
+  "active": "f370b866eefee637",
   "lastOpenFiles": [
+    "MNS/MR_BECKER/07-01-2025 STP - (Mr BECKER).md",
+    "MNS/MR_BECKER/ROOTAGE STATIC.md",
+    "PJ/Pasted image 20250107114908.png",
+    "PJ/Pasted image 20250107114215.png",
+    "PJ/Pasted image 20250107113308.png",
+    "PJ/Pasted image 20250107113226.png",
+    "PJ/Pasted image 20250107112737.png",
+    "PJ/Pasted image 20250107111629.png",
+    "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md",
     "MNS/MR_BECKER/PNET LAB COMMANDES.md",
     "MNS/MR_BECKER/05-11-2024 - ROOTER ON STICK - (Mr BECKER).md",
-    "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md",
     "MNS/MR_BECKER/04-11-2024 - ARCHITECTURE RESEAUX - (Mr BECKER).md",
+    "MNS/PNETLAB/Etapes.md",
+    "MNS/Définitions -.md",
+    "MNS/to do mns.md",
+    "MNS/PNETLAB",
+    "MNS/Nouveau dossier",
     "MNS/MR_DEMAY/01-10-2023 - GLPI - (Mr DEMAY).md",
     "MNS/MR_DEMAY/10-12-2024 - Remote App (Mr Demay).md",
     "MNS/MR_DEMAY/02-10-2023 - MAINTENANCES (Mr DEMAY).md",
@@ -198,29 +240,16 @@
     "MNS/MR_ROLLAND/05 - Transformation de Server1 en Passerelle Réseau.md",
     "MNS/MR_ROLLAND/02 - Configuration des Interfaces Réseau.md",
     "MNS/MR_ROLLAND/01 - Installation et Configuration du Laboratoire.md",
-    "MNS/MR_GAMORY/23-09-24 COURS 1 (Mr GAMORY).md",
-    "MNS/MR_ROLLAND/README.md",
     "MNS/MR_ROLLAND/LICENSE",
-    "MNS/MR_ROLLAND/CONCLUSION.md",
-    "MNS/MR_ROLLAND/04 -  Mise à Jour de Server1.md",
-    "MNS/MR_ROLLAND/03 - Connexion SSH aux Serveurs.md",
     "MNS/MR_ROLLAND",
     "MNS/MR_JACQUEMIN",
     "PJ/Pasted image 20241106155752.png",
     "PJ/Pasted image 20241106155738.png",
-    "PJ/Pasted image 20241106155635.png",
-    "PJ/Pasted image 20241106155612.png",
-    "PJ/Pasted image 20241106155544.png",
-    "PJ/Pasted image 20241106155522.png",
-    "PJ/Pasted image 20241106155444.png",
-    "PJ/Pasted image 20241106155403.png",
     "PJ",
-    "MNS/MR_BECKER/MME_FINGE",
+    "MNS/MME_FINGE",
     "MNS/MME_ROMANI",
     "MNS/MR_BECKER",
     "MNS/MR_QUIRIN",
-    "MNS/MR_GAMORY",
-    "MNS/MR_DEMAY",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"
