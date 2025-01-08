@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/MR_BECKER/ROOTAGE STATIC.md",
+                "file": "MNS/MR_JACQUEMIN/04 - 12 - 2024 - MR JACQUEMIN - W CLIENT AVANCEE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROOTAGE STATIC"
+              "title": "04 - 12 - 2024 - MR JACQUEMIN - W CLIENT AVANCEE"
+            }
+          },
+          {
+            "id": "30d61c03217e4c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MNS/MR_JACQUEMIN/08-01-2025 - Mr JACQUEMIN - W CLIENT AVANCEE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08-01-2025 - Mr JACQUEMIN - W CLIENT AVANCEE"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,16 +216,24 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "f370b866eefee637",
+  "active": "30d61c03217e4c92",
   "lastOpenFiles": [
-    "MNS/MR_BECKER/07-01-2025 STP - (Mr BECKER).md",
+    "PJ/Pasted image 20250108105535.png",
+    "PJ/Pasted image 20250108104516.png",
+    "PJ/Pasted image 20250108104059.png",
+    "PJ/Pasted image 20250108103852.png",
+    "PJ/Pasted image 20250108103620.png",
+    "PJ/Pasted image 20250108102929.png",
+    "MNS/MR_JACQUEMIN/04 - 12 - 2024 - MR JACQUEMIN - W CLIENT AVANCEE.md",
+    "MNS/MR_JACQUEMIN/20-11-2024 - Mr JACQUEMIN - W CLIENT AVANCEE.md",
+    "MNS/MR_JACQUEMIN/08-01-2025 - Mr JACQUEMIN - W CLIENT AVANCEE.md",
     "MNS/MR_BECKER/ROOTAGE STATIC.md",
+    "MNS/MR_BECKER/07-01-2025 STP - (Mr BECKER).md",
     "PJ/Pasted image 20250107114908.png",
     "PJ/Pasted image 20250107114215.png",
     "PJ/Pasted image 20250107113308.png",
     "PJ/Pasted image 20250107113226.png",
     "PJ/Pasted image 20250107112737.png",
-    "PJ/Pasted image 20250107111629.png",
     "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md",
     "MNS/MR_BECKER/PNET LAB COMMANDES.md",
     "MNS/MR_BECKER/05-11-2024 - ROOTER ON STICK - (Mr BECKER).md",
@@ -224,13 +246,9 @@
     "MNS/MR_DEMAY/01-10-2023 - GLPI - (Mr DEMAY).md",
     "MNS/MR_DEMAY/10-12-2024 - Remote App (Mr Demay).md",
     "MNS/MR_DEMAY/02-10-2023 - MAINTENANCES (Mr DEMAY).md",
-    "MNS/MR_JACQUEMIN/04 - 12 - 2024 - MR JACQUEMIN - W CLIENTS AVANCEE.md",
     "MNS/MR_DEMAY/15-10-2024 - WINDOWS SERVEUR AVANCE (MR  DEMAY).md",
-    "MNS/MR_JACQUEMIN/20-11-2024 - Mr JACQUEMIN - W CLIENT AVANCEE.md",
     "CASI LORRAINE/To do.md",
     "CASI LORRAINE/26-09-24 Réunion de service.md",
-    "PJ/Pasted image 20241204135726.png",
-    "PJ/Pasted image 20241204133611.png",
     "MNS/MR_ROLLAND/07 - Transformation de Server1 en Serveur DHCP avec Kea.md",
     "MNS/MR_ROLLAND/09 - Installation de Services Web.md",
     "MNS/MR_ROLLAND/08 - Transformation de Server2 en Serveur LAMP.md",
@@ -238,13 +256,9 @@
     "MNS/MR_ROLLAND/06 - Transformation de Server1 en Serveur DNS.md",
     "MNS/MR_ROLLAND/07 - Transformation de Server1 en Serveur DHCP avec Kea (1).md",
     "MNS/MR_ROLLAND/05 - Transformation de Server1 en Passerelle Réseau.md",
-    "MNS/MR_ROLLAND/02 - Configuration des Interfaces Réseau.md",
-    "MNS/MR_ROLLAND/01 - Installation et Configuration du Laboratoire.md",
     "MNS/MR_ROLLAND/LICENSE",
     "MNS/MR_ROLLAND",
     "MNS/MR_JACQUEMIN",
-    "PJ/Pasted image 20241106155752.png",
-    "PJ/Pasted image 20241106155738.png",
     "PJ",
     "MNS/MME_FINGE",
     "MNS/MME_ROMANI",
