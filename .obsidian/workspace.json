@@ -39,14 +39,10 @@
             "id": "f5fbb95d9cbd07d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT ESSENTIEL 8/Introduction au matériel informatique.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Introduction au matériel informatique"
+              "title": "Nouvel onglet"
             }
           },
           {
@@ -216,42 +212,7 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "floating": {
-    "id": "cf10b55f0f64a0bc",
-    "type": "floating",
-    "children": [
-      {
-        "id": "60a3d04105a1f482",
-        "type": "window",
-        "children": [
-          {
-            "id": "96b09429aa3a424f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7e685a4315833ea8",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "Nouvel onglet"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1194,
-        "y": -246,
-        "width": 1024,
-        "height": 763,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f5fbb95d9cbd07d3",
+  "active": "8e36b634f44a0f29",
   "lastOpenFiles": [
     "IT ESSENTIEL 8/Sans titre.md",
     "MNS/MR_DEMAY/01-10-2023 - GLPI - (Mr DEMAY).md",
