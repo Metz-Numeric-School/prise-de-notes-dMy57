@@ -8,59 +8,147 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63d28da05c940acd",
+            "id": "038cb9fa55d15f81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT ESSENTIEL 8/Introduction au matériel informatique.md",
+                "file": "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.1 Boîte et alimentations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction au matériel informatique"
+              "title": "1.2.1 Boîte et alimentations"
             }
           },
           {
-            "id": "91aa90374c191022",
+            "id": "3f9b059427a76d3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/MR_DEMAY/01-10-2023 - GLPI - (Mr DEMAY).md",
+                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-10-2023 - GLPI - (Mr DEMAY)"
+              "title": "Sans titre"
             }
           },
           {
-            "id": "f5fbb95d9cbd07d3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nouvel onglet"
-            }
-          },
-          {
-            "id": "1f9f06dec4279124",
+            "id": "a78b451ab4171adb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/MR_JACQUEMIN/08-01-2025 - Mr JACQUEMIN - W CLIENT AVANCEE.md",
+                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08-01-2025 - Mr JACQUEMIN - W CLIENT AVANCEE"
+              "title": "Sans titre 1"
+            }
+          },
+          {
+            "id": "24ae130dd9e7583c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sans titre 2"
+            }
+          },
+          {
+            "id": "8dfc91fcacaa526c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sans titre 3"
+            }
+          },
+          {
+            "id": "0b405849455729ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sans titre 4"
+            }
+          },
+          {
+            "id": "51af255f036c0b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sans titre 5"
+            }
+          },
+          {
+            "id": "33aebd5dd148f0e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sans titre 6"
+            }
+          },
+          {
+            "id": "d329217f90b805a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sans titre 7"
+            }
+          },
+          {
+            "id": "1857c0b5979b71ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sans titre 8"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -212,54 +300,54 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "8e36b634f44a0f29",
+  "active": "1857c0b5979b71ec",
   "lastOpenFiles": [
-    "IT ESSENTIEL 8/Sans titre.md",
-    "MNS/MR_DEMAY/01-10-2023 - GLPI - (Mr DEMAY).md",
-    "MNS/MR_DEMAY/Sans titre.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique.md",
-    "MNS/MR_JACQUEMIN/08-01-2025 - Mr JACQUEMIN - W CLIENT AVANCEE.md",
+    "IT ESSENTIEL 8/MODULE 2/Sans titre 7.md",
+    "IT ESSENTIEL 8/MODULE 2/Sans titre 8.md",
+    "IT ESSENTIEL 8/MODULE 2/Sans titre 6.md",
+    "IT ESSENTIEL 8/MODULE 2/Sans titre 5.md",
+    "IT ESSENTIEL 8/MODULE 2/Sans titre 4.md",
+    "IT ESSENTIEL 8/MODULE 2/Sans titre 3.md",
+    "IT ESSENTIEL 8/MODULE 2/Sans titre 2.md",
+    "IT ESSENTIEL 8/MODULE 2/Sans titre 1.md",
+    "IT ESSENTIEL 8/MODULE 2/Sans titre.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.1 Boîte et alimentations.md",
+    "IT ESSENTIEL 8/MODULE 2",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.4.1 Conclusion.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/Sans titre 9.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/Sans titre 1.md",
+    "PJ/Pasted image 20250112201957.png",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.2 Cartes mères.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.4 Vérifiez votre compréhension – Processeurs et systèmes de refroidissement.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.3 Processeurs et systèmes de refroidissement.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.5 Mémoire.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.6 Vérifiez votre compréhension - la mémoire.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.8 Disques durs et SSD.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.3.1 L'équipement du technicien.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.9 Périphériques de stockage optique.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.10 Ports, câbles et adaptateurs.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.7 Cartes d'adaptation et emplacements d'extension.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.13 Périphériques de sortie.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.11 Périphériques d'entrée.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.12 Vérifiez votre compréhension  - Input Devices.md",
+    "PJ/Pasted image 20250112185414.png",
+    "PJ/Pasted image 20250112180428.png",
+    "PJ/Pasted image 20250112174816.png",
+    "PJ/Pasted image 20250112174757.png",
+    "PJ/Pasted image 20250112174741.png",
+    "PJ/Pasted image 20250112174151.png",
+    "PJ/Pasted image 20250112170902.png",
     "PJ/Pasted image 20250108152719.png",
     "PJ/Pasted image 20250108152148.png",
-    "PJ/Pasted image 20250108151253.png",
-    "MNS/MR_BECKER/PNET LAB COMMANDES.md",
-    "MNS/MR_BECKER/07-01-2025 STP - (Mr BECKER).md",
-    "MNS/MR_JACQUEMIN/04 - 12 - 2024 - MR JACQUEMIN - W CLIENT AVANCEE.md",
-    "PJ/Pasted image 20250108141838.png",
-    "PJ/Pasted image 20250108141659.png",
-    "PJ/Pasted image 20250108140813.png",
     "IT ESSENTIEL 8",
-    "PJ/Pasted image 20250108105535.png",
-    "PJ/Pasted image 20250108104516.png",
-    "PJ/Pasted image 20250108104059.png",
-    "PJ/Pasted image 20250108103852.png",
-    "MNS/MR_JACQUEMIN/20-11-2024 - Mr JACQUEMIN - W CLIENT AVANCEE.md",
-    "MNS/MR_BECKER/ROOTAGE STATIC.md",
-    "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md",
-    "MNS/MR_BECKER/05-11-2024 - ROOTER ON STICK - (Mr BECKER).md",
-    "MNS/MR_BECKER/04-11-2024 - ARCHITECTURE RESEAUX - (Mr BECKER).md",
-    "MNS/PNETLAB/Etapes.md",
-    "MNS/Définitions -.md",
-    "MNS/to do mns.md",
     "MNS/PNETLAB",
     "MNS/Nouveau dossier",
-    "MNS/MR_DEMAY/10-12-2024 - Remote App (Mr Demay).md",
-    "MNS/MR_DEMAY/02-10-2023 - MAINTENANCES (Mr DEMAY).md",
-    "MNS/MR_DEMAY/15-10-2024 - WINDOWS SERVEUR AVANCE (MR  DEMAY).md",
-    "CASI LORRAINE/To do.md",
-    "CASI LORRAINE/26-09-24 Réunion de service.md",
-    "MNS/MR_ROLLAND/07 - Transformation de Server1 en Serveur DHCP avec Kea.md",
-    "MNS/MR_ROLLAND/09 - Installation de Services Web.md",
-    "MNS/MR_ROLLAND/08 - Transformation de Server2 en Serveur LAMP.md",
-    "MNS/MR_ROLLAND/06 - Transformation de Server1 en Serveur DNS (1).md",
-    "MNS/MR_ROLLAND/06 - Transformation de Server1 en Serveur DNS.md",
     "MNS/MR_ROLLAND/LICENSE",
     "MNS/MR_ROLLAND",
     "MNS/MR_JACQUEMIN",
     "PJ",
     "MNS/MME_FINGE",
-    "MNS/MME_ROMANI",
-    "MNS/MR_BECKER",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"
