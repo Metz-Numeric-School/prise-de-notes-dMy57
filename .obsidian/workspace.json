@@ -8,17 +8,87 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8c8e9d47a2e0999",
+            "id": "2729753ad377a36a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/2.1.3 Installer les composants de la carte mère.md",
+                "file": "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.1.3 Installer les composants de la carte mère"
+              "title": "Sans titre"
+            }
+          },
+          {
+            "id": "63ebdbf80940c725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sans titre"
+            }
+          },
+          {
+            "id": "77088a99426234d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sans titre 1"
+            }
+          },
+          {
+            "id": "c401a7d71a662ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sans titre 2"
+            }
+          },
+          {
+            "id": "083fd7d3416d6b73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sans titre 3"
+            }
+          },
+          {
+            "id": "cc263afd3d5096a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sans titre 4"
             }
           },
           {
@@ -35,7 +105,8 @@
               "title": "13-01-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 401.5
   },
   "right": {
     "id": "78f6df6de190eea1",
@@ -187,46 +258,46 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "c8c8e9d47a2e0999",
+  "active": "63ebdbf80940c725",
   "lastOpenFiles": [
-    "MNS/MME_FINGE/13-01-2025.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/2.1.3 Installer les composants de la carte mère.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/2.1.2 Ouvrir le boîtier et connecter l'alimentation.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/2.1.1 Sécurité générale et incendie.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.1 Boîte et alimentations.md",
-    "MNS/MME_FINGE/19-11-2024 - ANGLAIS - RECAP.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2 - ASSEMBLAGE PC/2.2.1 Conclusion.md",
+    "PJ/Pasted image 20250113154248.png",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1 - INTRODUCTION AU MATERIEL INFORMATIQUE/1.4.1 Conclusion.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2 - ASSEMBLAGE PC/2.1.3 Installer les composants de la carte mère.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2 - ASSEMBLAGE PC/2.1.1 Sécurité générale et incendie.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2 - ASSEMBLAGE PC/2.1.2 Ouvrir le boîtier et connecter l'alimentation.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2 - ASSEMBLAGE PC/2.1.5 Installer les cartes d'adaptation.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2 - ASSEMBLAGE PC/2.1.6 Sélectionner un stockage supplémentaire.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre 3.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2 - ASSEMBLAGE PC/2.1.7 Installer les câbles.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2 - ASSEMBLAGE PC/2.1.4 Installer les lecteurs internes.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2 - ASSEMBLAGE PC",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre 4.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre 2.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre 1.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE",
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/Sans titre 8.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/Sans titre 7.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/Sans titre 6.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/Sans titre 5.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/Sans titre 4.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/Sans titre 3.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.4.1 Conclusion.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1 - INTRODUCTION AU MATERIEL INFORMATIQUE/1.2.1 Boîte et alimentations.md",
+    "PJ/Pasted image 20250113142332.png",
+    "PJ/Pasted image 20250113142153.png",
+    "PJ/Pasted image 20250113141508.png",
+    "PJ/Pasted image 20250113140359.png",
+    "MNS/MME_FINGE/19-11-2024 - ANGLAIS - RECAP.md",
+    "MNS/MME_FINGE/13-01-2025.md",
+    "PJ/Pasted image 20250113135439.png",
+    "PJ/Pasted image 20250113135318.png",
+    "PJ/Pasted image 20250113114835.png",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1 - INTRODUCTION AU MATERIEL INFORMATIQUE",
     "IT ESSENTIEL 8/Introduction au matériel informatique/Sans titre 9.md",
     "IT ESSENTIEL 8/Introduction au matériel informatique/Sans titre 1.md",
     "PJ/Pasted image 20250112201957.png",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.2 Cartes mères.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.4 Vérifiez votre compréhension – Processeurs et systèmes de refroidissement.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.3 Processeurs et systèmes de refroidissement.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.5 Mémoire.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.6 Vérifiez votre compréhension - la mémoire.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.8 Disques durs et SSD.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.3.1 L'équipement du technicien.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.9 Périphériques de stockage optique.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.10 Ports, câbles et adaptateurs.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.7 Cartes d'adaptation et emplacements d'extension.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.13 Périphériques de sortie.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1 - INTRODUCTION AU MATERIEL INFORMATIQUE/1.2.2 Cartes mères.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1 - INTRODUCTION AU MATERIEL INFORMATIQUE/1.2.4 Vérifiez votre compréhension – Processeurs et systèmes de refroidissement.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1 - INTRODUCTION AU MATERIEL INFORMATIQUE/1.2.3 Processeurs et systèmes de refroidissement.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1 - INTRODUCTION AU MATERIEL INFORMATIQUE/1.2.5 Mémoire.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1 - INTRODUCTION AU MATERIEL INFORMATIQUE/1.2.6 Vérifiez votre compréhension - la mémoire.md",
     "PJ/Pasted image 20250112185414.png",
-    "PJ/Pasted image 20250112180428.png",
-    "PJ/Pasted image 20250112174816.png",
-    "PJ/Pasted image 20250112174757.png",
-    "PJ/Pasted image 20250112174741.png",
-    "PJ/Pasted image 20250112174151.png",
-    "PJ/Pasted image 20250112170902.png",
-    "PJ/Pasted image 20250108152719.png",
-    "PJ/Pasted image 20250108152148.png",
     "IT ESSENTIEL 8",
     "MNS/PNETLAB",
     "MNS/Nouveau dossier",
@@ -234,7 +305,6 @@
     "MNS/MR_ROLLAND",
     "MNS/MR_JACQUEMIN",
     "PJ",
-    "MNS/MME_FINGE",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"
