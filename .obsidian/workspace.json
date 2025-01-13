@@ -8,147 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "038cb9fa55d15f81",
+            "id": "c8c8e9d47a2e0999",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.1 Boîte et alimentations.md",
+                "file": "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/2.1.3 Installer les composants de la carte mère.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2.1 Boîte et alimentations"
+              "title": "2.1.3 Installer les composants de la carte mère"
             }
           },
           {
-            "id": "3f9b059427a76d3c",
+            "id": "a8049fee42a1874c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre.md",
+                "file": "MNS/MME_FINGE/13-01-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sans titre"
-            }
-          },
-          {
-            "id": "a78b451ab4171adb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sans titre 1"
-            }
-          },
-          {
-            "id": "24ae130dd9e7583c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sans titre 2"
-            }
-          },
-          {
-            "id": "8dfc91fcacaa526c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sans titre 3"
-            }
-          },
-          {
-            "id": "0b405849455729ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre 4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sans titre 4"
-            }
-          },
-          {
-            "id": "51af255f036c0b57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sans titre 5"
-            }
-          },
-          {
-            "id": "33aebd5dd148f0e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sans titre 6"
-            }
-          },
-          {
-            "id": "d329217f90b805a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre 7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sans titre 7"
-            }
-          },
-          {
-            "id": "1857c0b5979b71ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT ESSENTIEL 8/MODULE 2/Sans titre 8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sans titre 8"
+              "title": "13-01-2025"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -300,19 +187,21 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "1857c0b5979b71ec",
+  "active": "c8c8e9d47a2e0999",
   "lastOpenFiles": [
-    "IT ESSENTIEL 8/MODULE 2/Sans titre 7.md",
-    "IT ESSENTIEL 8/MODULE 2/Sans titre 8.md",
-    "IT ESSENTIEL 8/MODULE 2/Sans titre 6.md",
-    "IT ESSENTIEL 8/MODULE 2/Sans titre 5.md",
-    "IT ESSENTIEL 8/MODULE 2/Sans titre 4.md",
-    "IT ESSENTIEL 8/MODULE 2/Sans titre 3.md",
-    "IT ESSENTIEL 8/MODULE 2/Sans titre 2.md",
-    "IT ESSENTIEL 8/MODULE 2/Sans titre 1.md",
-    "IT ESSENTIEL 8/MODULE 2/Sans titre.md",
+    "MNS/MME_FINGE/13-01-2025.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/2.1.3 Installer les composants de la carte mère.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/2.1.2 Ouvrir le boîtier et connecter l'alimentation.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/2.1.1 Sécurité générale et incendie.md",
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.1 Boîte et alimentations.md",
-    "IT ESSENTIEL 8/MODULE 2",
+    "MNS/MME_FINGE/19-11-2024 - ANGLAIS - RECAP.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/Sans titre 8.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/Sans titre 7.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/Sans titre 6.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/Sans titre 5.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/Sans titre 4.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2/Sans titre 3.md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2",
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.4.1 Conclusion.md",
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1",
     "IT ESSENTIEL 8/Introduction au matériel informatique/Sans titre 9.md",
@@ -329,8 +218,6 @@
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.10 Ports, câbles et adaptateurs.md",
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.7 Cartes d'adaptation et emplacements d'extension.md",
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.13 Périphériques de sortie.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.11 Périphériques d'entrée.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1/1.2.12 Vérifiez votre compréhension  - Input Devices.md",
     "PJ/Pasted image 20250112185414.png",
     "PJ/Pasted image 20250112180428.png",
     "PJ/Pasted image 20250112174816.png",
