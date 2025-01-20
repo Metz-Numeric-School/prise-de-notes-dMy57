@@ -9,6 +9,7 @@ sh run = tout voirs
 
 Router> enable  
 Router# configure terminal  
+ 
 
 **no shut (pnetlab) création SVI**
   
