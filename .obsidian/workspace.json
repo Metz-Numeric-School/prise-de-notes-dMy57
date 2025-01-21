@@ -4,67 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "1ccf9f7da79d6ffb",
+        "id": "d1ce0b4222e826fe",
         "type": "tabs",
         "children": [
           {
-            "id": "09262266f5a1a150",
+            "id": "5cf62bc333f1f23d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/MR_BECKER/Endpoint security/Module 1/1.1 Menaces Courantes.md",
+                "file": "MNS/MR_DEMAY/10-12-2024 - Remote App (Mr Demay).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Menaces Courantes"
+              "title": "10-12-2024 - Remote App (Mr Demay)"
             }
           },
           {
-            "id": "06518aca62331a49",
+            "id": "b953289e28ac77a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/MR_BECKER/Endpoint security/Module 1/1.2 Déception.md",
+                "file": "MNS/MR_BECKER/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau/3.1 Détails d'IP PDU (IPv4 - IPv6).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Déception"
+              "title": "3.1 Détails d'IP PDU (IPv4 - IPv6)"
             }
           },
           {
-            "id": "9833e6646ac30121",
+            "id": "bbc2e0666706e787",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/MR_BECKER/Endpoint security/Module 1/1.3 Cyber-attaques.md",
+                "file": "MNS/MR_BECKER/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau/3.2. Les vulnérabilités IP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 Cyber-attaques"
+              "title": "3.2. Les vulnérabilités IP"
             }
           },
           {
-            "id": "af0087f5019a1adb",
+            "id": "1b770ef1356cb377",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/MR_BECKER/Endpoint security/Module 1/1.4 Attaques visant les terminaux sans fil et mobiles.md",
+                "file": "MNS/MR_BECKER/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau/3.3 Vulnérabilités liées aux protocoles TCP et UDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4 Attaques visant les terminaux sans fil et mobiles"
+              "title": "3.3 Vulnérabilités liées aux protocoles TCP et UDP"
+            }
+          },
+          {
+            "id": "beea688264786b15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MNS/MR_BECKER/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau/3.4 Attaquer les fondations Résumé.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.4 Attaquer les fondations Résumé"
+            }
+          },
+          {
+            "id": "39ae35b336d871a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MNS/MR_BECKER/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau/4.1 IP Services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1 IP Services"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -216,54 +244,54 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "af0087f5019a1adb",
+  "active": "39ae35b336d871a8",
   "lastOpenFiles": [
-    "MNS/MR_BECKER/Endpoint security/Module 1/1.3 Cyber-attaques.md",
-    "MNS/MR_BECKER/Endpoint security/Module 1/1.4 Attaques visant les terminaux sans fil et mobiles.md",
-    "MNS/MR_BECKER/Endpoint security/Module 1/1.2 Déception.md",
+    "PJ/Pasted image 20250121114439.png",
+    "PJ/Pasted image 20250121114300.png",
+    "PJ/Pasted image 20250121114038.png",
+    "PJ/Pasted image 20250121113902.png",
+    "PJ/Pasted image 20250121113041.png",
+    "PJ/Pasted image 20250121112924.png",
+    "PJ/Pasted image 20250121110948.png",
+    "PJ/Pasted image 20250121110730.png",
+    "PJ/Pasted image 20250121110510.png",
+    "PJ/Pasted image 20250121105057.png",
+    "MNS/MR_BECKER/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau/3.4 Attaquer les fondations Résumé.md",
+    "MNS/MR_BECKER/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau/4.1 IP Services.md",
+    "MNS/MR_BECKER/Endpoint security/Module 4 - Attaques ciblant les activités",
+    "PJ/Pasted image 20250121105001.png",
+    "MNS/MR_BECKER/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau/3.2. Les vulnérabilités IP.md",
+    "MNS/MR_BECKER/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau/3.1 Détails d'IP PDU (IPv4 - IPv6).md",
+    "MNS/MR_BECKER/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau/3.3 Vulnérabilités liées aux protocoles TCP et UDP.md",
+    "MNS/MR_DEMAY/TP 3-2.md",
+    "MNS/MR_DEMAY/10-12-2024 - Remote App (Mr Demay).md",
+    "MNS/Définitions -.md",
+    "MNS/MR_BECKER/Endpoint security/Module 2 - Sécurisation des réseaux/2.2 Qui s'attaque à notre réseau.md",
+    "MNS/MR_BECKER/Endpoint security/Module 2 - Sécurisation des réseaux/2.1 Etat actuel des choses.md",
+    "MNS/MR_BECKER/Endpoint security/Module 1/1.6.1 Qu'ai-je appris dans ce module.md",
+    "MNS/MR_BECKER/Endpoint security/Module 2 - Sécurisation des réseaux/2.3. Qu'ai-je appris dans ce module.md",
     "MNS/MR_BECKER/Endpoint security/Module 1/1.1 Menaces Courantes.md",
+    "MNS/MR_BECKER/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau",
+    "MNS/MR_BECKER/Endpoint security/Module 2 - Sécurisation des réseaux",
+    "MNS/MR_BECKER/Endpoint security/Module 1/1.5 Attaques via des applications.md",
+    "MNS/MR_BECKER/Endpoint security/Module 1/1.4 Attaques visant les terminaux sans fil et mobiles.md",
+    "MNS/MR_BECKER/Endpoint security/Module 1/1.3 Cyber-attaques.md",
+    "MNS/MR_BECKER/Endpoint security/Module 1/1.2 Déception.md",
     "MNS/MR_BECKER/Questions sur la Supervision Réseau et PRTG.md",
     "MNS/MR_BECKER/Endpoint security/Module 1",
     "MNS/PNETLAB/Etapes.md",
     "MNS/MR_BECKER/ROOTAGE STATIC.md",
     "MNS/PNETLAB/Procédure Layer 3 (antho n).md",
-    "PJ/Pasted image 20250120091042.png",
-    "PJ/Pasted image 20250120084715.png",
     "MNS/MR_BECKER/20-01-2025 - Sécurité et vulnérabilité informatique.md",
     "MNS/MR_BECKER/Endpoint security",
     "MNS/MR_BECKER/14-01-2025 - SUPERVISION.md",
     "MNS/MR_BECKER/05-11-2024 - ROOTER ON STICK - (Mr BECKER).md",
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/3.1.1 POST, BIOS, CMOS et UEFI.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1 - INTRODUCTION AU MATERIEL INFORMATIQUE/1.2.2 Cartes mères.md",
-    "MNS/MR_BECKER/07-10-2024 - AWS - (Mr BECKER).md",
-    "MNS/PNETLAB/NAT.md",
-    "MNS/PNETLAB/L3.md",
-    "MNS/PNETLAB/PNET LAB COMMANDES.md",
-    "MNS/MR_BECKER/07-01-2025 STP - (Mr BECKER).md",
-    "MNS/MR_BECKER/04-11-2024 - ARCHITECTURE RESEAUX - (Mr BECKER).md",
-    "PJ/Pasted image 20250113142332.png",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/3.1.2 Configuration du BIOS-UEFI.md",
-    "MNS/MME_FINGE/13-01-2025.md",
-    "PJ/Pasted image 20250113163725.png",
-    "PJ/Pasted image 20250113163625.png",
-    "PJ/Pasted image 20250113163608.png",
-    "PJ/Pasted image 20250113155954.png",
-    "Veille/README.md",
-    "Veille/Ressources web.md",
-    "PJ/Pasted image 20250108151253.png",
-    "PJ/Pasted image 20250108141838.png",
-    "PJ/Pasted image 20250108141659.png",
-    "CASI LORRAINE/To do.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2 - ASSEMBLAGE PC/2.2.1 Conclusion.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1 - INTRODUCTION AU MATERIEL INFORMATIQUE/1.4.1 Conclusion.md",
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2 - ASSEMBLAGE PC",
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE",
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1 - INTRODUCTION AU MATERIEL INFORMATIQUE",
     "IT ESSENTIEL 8",
     "MNS/PNETLAB",
-    "MNS/Nouveau dossier",
-    "MNS/MR_ROLLAND/LICENSE",
-    "MNS/MR_ROLLAND",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"
