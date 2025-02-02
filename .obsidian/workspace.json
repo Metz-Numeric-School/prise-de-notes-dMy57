@@ -4,49 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "d1ce0b4222e826fe",
+        "id": "80e1e58b72801125",
         "type": "tabs",
         "children": [
           {
-            "id": "b5cfee309ba5f2eb",
+            "id": "2f8487f4bfafd6c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/MR_BECKER/Endpoint security/Module 4 - Attaques ciblant les activités/4.4 Qu'ai-je appris dans ce module.md",
+                "file": "MNS/MR_DEMAY/01-10-2024 - GLPI - (Mr DEMAY).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.4 Qu'ai-je appris dans ce module"
+              "title": "01-10-2024 - GLPI - (Mr DEMAY)"
             }
           },
           {
-            "id": "15d2663a770c6ba8",
+            "id": "1e092e017e2628b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/3.2.1 Wattage and Voltage (Puissance et Tension).md",
+                "file": "MNS/MR_BECKER/Endpoint security/Module 5 - Communication en réseau sans fil/5.1.1 Vidéo - Fonctionnement du WLAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2.1 Wattage and Voltage (Puissance et Tension)"
+              "title": "5.1.1 Vidéo - Fonctionnement du WLAN"
             }
           },
           {
-            "id": "5b760d8037c089da",
+            "id": "af3eccd1e59e060f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/Mr_LOUIS_JEROME/29-01-25 - PROXY - (Mr LOUIS Jerome).md",
+                "file": "MNS/MR_BECKER/Endpoint security/Module 5 - Communication en réseau sans fil/5.2.2 Aperçu de la sécurité sans fil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "29-01-25 - PROXY - (Mr LOUIS Jerome)"
+              "title": "5.2.2 Aperçu de la sécurité sans fil"
             }
           }
         ],
@@ -69,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -202,13 +203,28 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "5b760d8037c089da",
+  "active": "af3eccd1e59e060f",
   "lastOpenFiles": [
+    "MNS/MR_BECKER/Endpoint security/Module 5 - Communication en réseau sans fil/5.1.1 Vidéo - Fonctionnement du WLAN.md",
+    "MNS/MR_BECKER/Endpoint security/Module 5 - Communication en réseau sans fil/5.2.2 Aperçu de la sécurité sans fil.md",
+    "PJ/Pasted image 20250202160326.png",
+    "PJ/Pasted image 20250202155941.png",
+    "MNS/MR_BECKER/Endpoint security/Module 4 - Attaques ciblant les activités/4.4 Qu'ai-je appris dans ce module.md",
+    "MNS/MR_DEMAY/10-12-2024 - Remote App (Mr Demay).md",
+    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/3.2.1 Wattage and Voltage (Puissance et Tension).md",
+    "MNS/PNETLAB/Procédure Layer 3 (antho n).md",
+    "MNS/PNETLAB/PNET LAB COMMANDES.md",
+    "MNS/PNETLAB/NAT.md",
+    "MNS/PNETLAB/L3.md",
+    "MNS/PNETLAB/Etapes.md",
+    "MNS/MR_BECKER/14-01-2025 - SUPERVISION.md",
+    "MNS/MR_BECKER/20-01-2025 - Sécurité et vulnérabilité informatique.md",
+    "MNS/MR_BECKER/Questions sur la Supervision Réseau et PRTG.md",
+    "MNS/MR_BECKER/ROOTAGE STATIC.md",
+    "MNS/Mr_LOUIS_JEROME/29-01-25 - PROXY - (Mr LOUIS Jerome).md",
     "MNS/Mr_LOUIS_JEROME",
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre 3.md",
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre 4.md",
-    "MNS/Mr_LOUIS_JEROME/29-01-25 - PROXY - (Mr LOUIS Jerome).md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/3.2.1 Wattage and Voltage (Puissance et Tension).md",
     "MNS/MR_BECKER/Endpoint security/Module 4 - Attaques ciblant les activités/4.2 Services aux entreprises.md",
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/3.1.2 Configuration du BIOS-UEFI.md",
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/3.1.1 POST, BIOS, CMOS et UEFI.md",
@@ -220,27 +236,13 @@
     "MNS/MR_DEMAY/02-10-2023 - MAINTENANCES (Mr DEMAY).md",
     "MNS/MR_DEMAY/25-09-24 COURS 3 - GESTION DE PARC - (Mr DEMAY).md",
     "MNS/MR_DEMAY/18-11-2024 - Conception PI-2 Mr Demay.md",
-    "MNS/MR_DEMAY/01-10-2023 - GLPI - (Mr DEMAY).md",
-    "MNS/MR_BECKER/04-11-2024 - ARCHITECTURE RESEAUX - (Mr BECKER).md",
-    "MNS/MR_DEMAY/10-12-2024 - Remote App (Mr Demay).md",
-    "MNS/MR_DEMAY/15-10-2024 - WINDOWS SERVEUR AVANCE (MR  DEMAY).md",
-    "MNS/MR_BECKER/Endpoint security/Module 5 - Communication en réseau sans fil/5.1.1 Vidéo - Fonctionnement du WLAN.md",
-    "MNS/MR_BECKER/Endpoint security/Module 4 - Attaques ciblant les activités/4.4 Qu'ai-je appris dans ce module.md",
+    "MNS/MR_DEMAY/01-10-2024 - GLPI - (Mr DEMAY).md",
     "MNS/MR_BECKER/Endpoint security/Module 5 - Communication en réseau sans fil",
     "PJ/Pasted image 20250121154313.png",
-    "MNS/MR_BECKER/Endpoint security/Module 4 - Attaques ciblant les activités/4.1 IP Services.md",
-    "MNS/MR_BECKER/Endpoint security/Module 4 - Attaques ciblant les activités/4.3 Atténuation des attaques de réseau courantes.md",
-    "MNS/MR_BECKER/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau/3.4.1 Qu'ai-je appris dans ce module.md",
-    "MNS/MR_BECKER/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau/3.3 Vulnérabilités liées aux protocoles TCP et UDP.md",
-    "MNS/MR_BECKER/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau/3.2. Les vulnérabilités IP.md",
-    "MNS/MR_BECKER/Endpoint security/Module 2 - Sécurisation des réseaux/2.3. Qu'ai-je appris dans ce module.md",
-    "MNS/MR_BECKER/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau/3.1 Détails d'IP PDU (IPv4 - IPv6).md",
     "PJ/Pasted image 20250121142024.png",
     "PJ/Pasted image 20250121114439.png",
     "PJ/Pasted image 20250121114300.png",
     "PJ/Pasted image 20250121114038.png",
-    "PJ/Pasted image 20250121113902.png",
-    "PJ/Pasted image 20250121113041.png",
     "MNS/MR_BECKER/Endpoint security/Module 4 - Attaques ciblant les activités",
     "MNS/MR_BECKER/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau",
     "MNS/MR_BECKER/Endpoint security/Module 2 - Sécurisation des réseaux",
@@ -249,7 +251,6 @@
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2 - ASSEMBLAGE PC",
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE",
     "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1 - INTRODUCTION AU MATERIEL INFORMATIQUE",
-    "IT ESSENTIEL 8",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"
