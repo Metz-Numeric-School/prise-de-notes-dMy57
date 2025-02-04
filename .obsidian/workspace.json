@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/MR_BECKER/Endpoint security/Module 5 - Communication en réseau sans fil/5.1.1 Vidéo - Fonctionnement du WLAN.md",
+                "file": "MNS/NETACAD/Endpoint security/Module 5 - Communication en réseau sans fil/5.1.1 Vidéo - Fonctionnement du WLAN.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,16 +41,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/MR_BECKER/Endpoint security/Module 5 - Communication en réseau sans fil/5.2.2 Aperçu de la sécurité sans fil.md",
+                "file": "MNS/NETACAD/Endpoint security/Module 5 - Communication en réseau sans fil/5.2.2 Aperçu de la sécurité sans fil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "5.2.2 Aperçu de la sécurité sans fil"
             }
+          },
+          {
+            "id": "4230307848dc8e60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MNS/NETACAD/Endpoint security/Module 5 - Communication en réseau sans fil/5.3 WLAN sécurisés.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.3 WLAN sécurisés"
+            }
+          },
+          {
+            "id": "1e4d8960d72e1453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MNS/NETACAD/Endpoint security/Module 5 - Communication en réseau sans fil/5.3 WLAN sécurisés.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5.3 WLAN sécurisés"
+            }
+          },
+          {
+            "id": "5c949fe3bb4f088c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MNS/NETACAD/Endpoint security/Module 6 - Dispositifs de sécurité/6.1 Dispositifs de sécurité.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.1 Dispositifs de sécurité"
+            }
+          },
+          {
+            "id": "17be60afda60c44f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MNS/NETACAD/Endpoint security/Module 6 - Dispositifs de sécurité/6.2 Services de sécurité.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.2 Services de sécurité"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -69,7 +125,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -203,15 +259,31 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "af3eccd1e59e060f",
+  "active": "17be60afda60c44f",
   "lastOpenFiles": [
-    "MNS/MR_BECKER/Endpoint security/Module 5 - Communication en réseau sans fil/5.1.1 Vidéo - Fonctionnement du WLAN.md",
-    "MNS/MR_BECKER/Endpoint security/Module 5 - Communication en réseau sans fil/5.2.2 Aperçu de la sécurité sans fil.md",
-    "PJ/Pasted image 20250202160326.png",
-    "PJ/Pasted image 20250202155941.png",
-    "MNS/MR_BECKER/Endpoint security/Module 4 - Attaques ciblant les activités/4.4 Qu'ai-je appris dans ce module.md",
+    "PJ/Pasted image 20250204134540.png",
+    "PJ/Pasted image 20250204134537.png",
+    "MNS/NETACAD/Endpoint security/Module 6 - Dispositifs de sécurité/Sans titre.md",
+    "MNS/NETACAD/Endpoint security/Module 6 - Dispositifs de sécurité/6.2 Services de sécurité.md",
+    "PJ/Pasted image 20250204134258.png",
+    "PJ/Pasted image 20250204133958.png",
+    "PJ/Pasted image 20250204115507.png",
+    "PJ/Pasted image 20250204113032.png",
+    "MNS/NETACAD/Endpoint security/Module 6 - Dispositifs de sécurité/6.1 Dispositifs de sécurité.md",
+    "PJ/Pasted image 20250204110234.png",
+    "PJ/Pasted image 20250204104542.png",
+    "PJ/Pasted image 20250204100040.png",
+    "PJ/Pasted image 20250204100003.png",
+    "PJ/Pasted image 20250204095944.png",
+    "MNS/NETACAD/Endpoint security/Module 5 - Communication en réseau sans fil/5.3 WLAN sécurisés.md",
+    "MNS/NETACAD/Endpoint security/Module 6 - Dispositifs de sécurité",
+    "MNS/NETACAD/Endpoint security/Module 5 - Communication en réseau sans fil/5.4.2 Quiz sur la communication en réseau sans fil.md",
+    "MNS/NETACAD/Endpoint security/Module 5 - Communication en réseau sans fil/5.1.1 Vidéo - Fonctionnement du WLAN.md",
+    "MNS/NETACAD/Endpoint security/Module 5 - Communication en réseau sans fil/5.2.2 Aperçu de la sécurité sans fil.md",
+    "MNS/NETACAD",
+    "MNS/NETACAD/Endpoint security/Module 4 - Attaques ciblant les activités/4.4 Qu'ai-je appris dans ce module.md",
     "MNS/MR_DEMAY/10-12-2024 - Remote App (Mr Demay).md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/3.2.1 Wattage and Voltage (Puissance et Tension).md",
+    "MNS/NETACAD/IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/3.2.1 Wattage and Voltage (Puissance et Tension).md",
     "MNS/PNETLAB/Procédure Layer 3 (antho n).md",
     "MNS/PNETLAB/PNET LAB COMMANDES.md",
     "MNS/PNETLAB/NAT.md",
@@ -223,34 +295,18 @@
     "MNS/MR_BECKER/ROOTAGE STATIC.md",
     "MNS/Mr_LOUIS_JEROME/29-01-25 - PROXY - (Mr LOUIS Jerome).md",
     "MNS/Mr_LOUIS_JEROME",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre 3.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre 4.md",
-    "MNS/MR_BECKER/Endpoint security/Module 4 - Attaques ciblant les activités/4.2 Services aux entreprises.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/3.1.2 Configuration du BIOS-UEFI.md",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/3.1.1 POST, BIOS, CMOS et UEFI.md",
-    "PJ/Pasted image 20250125141727.png",
-    "PJ/Pasted image 20250125140416.png",
-    "PJ/Pasted image 20250125135732.png",
-    "MNS/MR_DEMAY/TP 3-2.md",
-    "MNS/MR_DEMAY/06-11-2024 - CONCEPTION PI (Mr DEMAY).md",
-    "MNS/MR_DEMAY/02-10-2023 - MAINTENANCES (Mr DEMAY).md",
-    "MNS/MR_DEMAY/25-09-24 COURS 3 - GESTION DE PARC - (Mr DEMAY).md",
-    "MNS/MR_DEMAY/18-11-2024 - Conception PI-2 Mr Demay.md",
-    "MNS/MR_DEMAY/01-10-2024 - GLPI - (Mr DEMAY).md",
-    "MNS/MR_BECKER/Endpoint security/Module 5 - Communication en réseau sans fil",
-    "PJ/Pasted image 20250121154313.png",
-    "PJ/Pasted image 20250121142024.png",
-    "PJ/Pasted image 20250121114439.png",
-    "PJ/Pasted image 20250121114300.png",
-    "PJ/Pasted image 20250121114038.png",
-    "MNS/MR_BECKER/Endpoint security/Module 4 - Attaques ciblant les activités",
-    "MNS/MR_BECKER/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau",
-    "MNS/MR_BECKER/Endpoint security/Module 2 - Sécurisation des réseaux",
-    "MNS/MR_BECKER/Endpoint security/Module 1",
-    "MNS/MR_BECKER/Endpoint security",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2 - ASSEMBLAGE PC",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE",
-    "IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1 - INTRODUCTION AU MATERIEL INFORMATIQUE",
+    "MNS/NETACAD/IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre 3.md",
+    "MNS/NETACAD/IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre 4.md",
+    "MNS/NETACAD/Endpoint security/Module 4 - Attaques ciblant les activités/4.2 Services aux entreprises.md",
+    "MNS/NETACAD/IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/3.1.2 Configuration du BIOS-UEFI.md",
+    "MNS/NETACAD/IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/3.1.1 POST, BIOS, CMOS et UEFI.md",
+    "MNS/NETACAD/Endpoint security/Module 5 - Communication en réseau sans fil",
+    "MNS/NETACAD/Endpoint security/Module 4 - Attaques ciblant les activités",
+    "MNS/NETACAD/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau",
+    "MNS/NETACAD/Endpoint security/Module 2 - Sécurisation des réseaux",
+    "MNS/NETACAD/Endpoint security/Module 1",
+    "MNS/NETACAD/Endpoint security",
+    "MNS/NETACAD/IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 2 - ASSEMBLAGE PC",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"
