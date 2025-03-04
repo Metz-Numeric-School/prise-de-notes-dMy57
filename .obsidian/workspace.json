@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20373069dfaa175f",
+            "id": "9bdafc1530ed7524",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/MR_ROLLAND/01 - Installation et Configuration du Laboratoire.md",
+                "file": "MNS/MR_BECKER/Serveur DNS - DHCP packet tracer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Installation et Configuration du Laboratoire"
-            }
-          },
-          {
-            "id": "1226f92b90e0974a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MNS/MR_ROLLAND/Conteneurisation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conteneurisation"
+              "title": "Serveur DNS - DHCP packet tracer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 200
   },
   "right": {
     "id": "78f6df6de190eea1",
@@ -189,54 +174,54 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "1226f92b90e0974a",
+  "active": "9bdafc1530ed7524",
   "lastOpenFiles": [
+    "MNS/MR_BECKER/Sans titre.md",
+    "MNS/MR_BECKER/Serveur DNS - DHCP packet tracer.md",
+    "MNS/MR_BECKER/04-03-25 Sécurité des infrastructures.md",
+    "MNS/PNETLAB/L3.md",
+    "PJ/Pasted image 20250304112131.png",
+    "PJ/Pasted image 20250304111858.png",
+    "MNS/MR_BECKER/Questions sur la Supervision Réseau et PRTG.md",
+    "MNS/MR_BECKER/05-11-2024 - ROOTER ON STICK - (Mr BECKER).md",
+    "MNS/PNETLAB/Etapes.md",
+    "MNS/PNETLAB/Procédure Layer 3 (antho n).md",
+    "MNS/MR_BECKER/ROOTAGE STATIC.md",
+    "MNS/NETACAD/Endpoint security/Module 9 - Protection du système et des terminaux/9.1 Protéger les systèmes et les appareils.md",
+    "PJ/Pasted image 20250303142653.png",
+    "MNS/NETACAD/Endpoint security/Module 8 - Linux/8.3 Serveurs et clients Linux.md",
+    "MNS/NETACAD/Endpoint security/Module 8 - Linux/8.7 Utiliser un hôte Linux.md",
+    "MNS/NETACAD/Endpoint security/Module 9 - Protection du système et des terminaux",
+    "MNS/NETACAD/Endpoint security/Module 8 - Linux/8.2 Utilisation du Shell Linux.md",
+    "MNS/NETACAD/Endpoint security/Module 8 - Linux/8.1 Notions de base de Linux.md",
+    "MNS/NETACAD/Endpoint security/Module 8 - Linux/8.6 Utiliser l'interface graphique (GUI) Linux.md",
+    "MNS/NETACAD/Endpoint security/Module 8 - Linux/8.5 Le système de fichiers Linux.md",
+    "MNS/NETACAD/Endpoint security/Module 8 - Linux/8.4 Administration de base du serveur.md",
+    "PJ/Pasted image 20250303110759.png",
+    "PJ/Pasted image 20250303110607.png",
+    "PJ/Pasted image 20250303110551.png",
+    "PJ/Pasted image 20250303105213.png",
+    "MNS/NETACAD/Endpoint security/Module 7 - Windows (OS)/7.4 Sécurité Windows.md",
+    "MNS/NETACAD/Endpoint security/Module 7 - Windows (OS)/7.3 Configuration et contrôle de Windows.md",
+    "PJ/Pasted image 20250303103900.png",
+    "PJ/Pasted image 20250303095711.png",
+    "PJ/Pasted image 20250303095650.png",
+    "MNS/NETACAD/Endpoint security/Module 7 - Windows (OS)/7.1 Système d'exploitation du disque (MS-DOS).md",
+    "MNS/Définitions -.md",
+    "MNS/NETACAD/Endpoint security/Module 8 - Linux",
+    "MNS/NETACAD/Endpoint security/Module 7 - Windows (OS)/7.2 Architecture et fonctionnement de Windows.md",
     "MNS/MR_ROLLAND/01 - Installation et Configuration du Laboratoire.md",
     "MNS/MR_ROLLAND/Conteneurisation.md",
-    "MNS/MR_ROLLAND/06 - Transformation de Server1 en Serveur DNS (1).md",
-    "MNS/NETACAD/IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre 4.md",
-    "MNS/NETACAD/IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/Sans titre 3.md",
-    "MNS/Mr_LOUIS_JEROME/29-01-25 - PROXY - (Mr LOUIS Jerome).md",
-    "MNS/SYNTHESE.md",
-    "MNS/NETACAD/Endpoint security/Module 7 - Windows (OS)/7.2 Architecture et fonctionnement de Windows.md",
-    "MNS/MR_DEMAY/01-10-2024 - GLPI - (Mr DEMAY).md",
-    "MNS/NETACAD/Endpoint security/Module 7 - Windows (OS)/7.1.1 Système d'exploitation du disque (MS-DOS).md",
-    "MNS/NETACAD/Endpoint security/Module 6 - Dispositifs de sécurité/6.1 Dispositifs de sécurité.md",
-    "MNS/NETACAD/Endpoint security/Module 6 - Dispositifs de sécurité/6.2 Services de sécurité.md",
-    "MNS/NETACAD/Endpoint security/Module 5 - Communication en réseau sans fil/5.2.2 Aperçu de la sécurité sans fil.md",
-    "PJ/Pasted image 20250204155604.png",
-    "PJ/Pasted image 20250204155454.png",
-    "PJ/Pasted image 20250204154655.png",
-    "PJ/Pasted image 20250204154531.png",
-    "PJ/Pasted image 20250204145249.png",
-    "PJ/Pasted image 20250204144735.png",
+    "MNS/MR_ROLLAND/README.md",
+    "MNS/MR_ROLLAND/CONCLUSION.md",
     "MNS/NETACAD/Endpoint security/Module 7 - Windows (OS)",
-    "MNS/NETACAD/Endpoint security/Module 6 - Dispositifs de sécurité/6.3 Résumé de l'infrastructure de sécurité des réseaux.md",
-    "PJ/Pasted image 20250204135746.png",
-    "Veille/Ressources web.md",
-    "Veille/README.md",
-    "PJ/Pasted image 20250204134540.png",
-    "PJ/Pasted image 20250204134537.png",
-    "PJ/Pasted image 20250204134258.png",
-    "MNS/NETACAD/Endpoint security/Module 5 - Communication en réseau sans fil/5.3 WLAN sécurisés.md",
     "MNS/NETACAD/Endpoint security/Module 6 - Dispositifs de sécurité",
-    "MNS/NETACAD/Endpoint security/Module 5 - Communication en réseau sans fil/5.4.2 Quiz sur la communication en réseau sans fil.md",
-    "MNS/NETACAD/Endpoint security/Module 5 - Communication en réseau sans fil/5.1.1 Vidéo - Fonctionnement du WLAN.md",
     "MNS/NETACAD",
-    "MNS/NETACAD/Endpoint security/Module 4 - Attaques ciblant les activités/4.4 Qu'ai-je appris dans ce module.md",
-    "MNS/MR_DEMAY/10-12-2024 - Remote App (Mr Demay).md",
-    "MNS/NETACAD/IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 3 - MATERIEL INFORMATIQUE AVANCEE/3.2.1 Wattage and Voltage (Puissance et Tension).md",
-    "MNS/PNETLAB/Procédure Layer 3 (antho n).md",
-    "MNS/PNETLAB/PNET LAB COMMANDES.md",
-    "MNS/PNETLAB/NAT.md",
-    "MNS/PNETLAB/L3.md",
     "MNS/Mr_LOUIS_JEROME",
     "MNS/NETACAD/Endpoint security/Module 5 - Communication en réseau sans fil",
     "MNS/NETACAD/Endpoint security/Module 4 - Attaques ciblant les activités",
     "MNS/NETACAD/Endpoint security/Module 3 - Attaque ciblant les fondementsdu réseau",
     "MNS/NETACAD/Endpoint security/Module 2 - Sécurisation des réseaux",
-    "MNS/NETACAD/Endpoint security/Module 1",
-    "MNS/NETACAD/Endpoint security",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas"
