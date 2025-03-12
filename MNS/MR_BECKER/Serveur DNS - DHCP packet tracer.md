@@ -17,6 +17,10 @@ Depuis le routeur :
 
 Sélectionner l'interfaces :
 
+```
+ip helper-adress (adresse du serveur)
+```
+
 ![[Pasted image 20250304112131.png]]
 
 faire de même pour l'ensemble des vlan

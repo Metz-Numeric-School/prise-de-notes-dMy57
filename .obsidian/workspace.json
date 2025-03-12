@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9bdafc1530ed7524",
+            "id": "002c229bc84067a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNS/MR_BECKER/Serveur DNS - DHCP packet tracer.md",
+                "file": "MNS/Mr_LOUIS_JEROME/29-01-25 - PROXY - (Mr LOUIS Jerome).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Serveur DNS - DHCP packet tracer"
+              "title": "29-01-25 - PROXY - (Mr LOUIS Jerome)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 358.5
   },
   "right": {
     "id": "78f6df6de190eea1",
@@ -174,21 +174,37 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "9bdafc1530ed7524",
+  "active": "002c229bc84067a3",
   "lastOpenFiles": [
-    "MNS/MR_BECKER/Sans titre.md",
-    "MNS/MR_BECKER/Serveur DNS - DHCP packet tracer.md",
+    "PJ/Pasted image 20250312102356.png",
+    "PJ/Pasted image 20250312095251.png",
+    "PJ/Pasted image 20250312095221.png",
+    "PJ/Pasted image 20250312094844.png",
+    "PJ/Pasted image 20250312092910.png",
+    "PJ/Pasted image 20250312092517.png",
+    "PJ/Pasted image 20250312091139.png",
+    "MNS/MR_BECKER/11-03-25 - STORMSHIELD.md",
+    "PJ/Pasted image 20250311134731.png",
+    "PJ/Pasted image 20250311115138.png",
+    "MNS/MR_BECKER/05-03-25 - ACLs - Access Control List.md",
+    "MNS/MR_ROLLAND/Conteneurisation.md",
     "MNS/MR_BECKER/04-03-25 Sécurité des infrastructures.md",
-    "MNS/PNETLAB/L3.md",
-    "PJ/Pasted image 20250304112131.png",
-    "PJ/Pasted image 20250304111858.png",
-    "MNS/MR_BECKER/Questions sur la Supervision Réseau et PRTG.md",
+    "MNS/MR_BECKER/Serveur DNS - DHCP packet tracer.md",
+    "CASI LORRAINE/To do.md",
+    "MNS/NETACAD/Endpoint security/Module 9 - Protection du système et des terminaux/9.3 Prévention des intrusions basée sur l'hôte.md",
+    "MNS/NETACAD/Endpoint security/Module 9 - Protection du système et des terminaux/9.4 Sécurité des applications.md",
+    "PJ/Pasted image 20250309170932.png",
+    "PJ/Pasted image 20250309170805.png",
+    "MNS/NETACAD/Endpoint security/Module 9 - Protection du système et des terminaux/9.2 Protection antimalware.md",
+    "MNS/NETACAD/Endpoint security/Module 9 - Protection du système et des terminaux/9.1 Protéger les systèmes et les appareils.md",
+    "MNS/MR_BECKER/ROOTAGE STATIC.md",
+    "MNS/MR_BECKER/14-01-2025 - SUPERVISION.md",
     "MNS/MR_BECKER/05-11-2024 - ROOTER ON STICK - (Mr BECKER).md",
+    "MNS/MR_DEMAY/TP 3-2.md",
+    "MNS/PNETLAB/L3.md",
+    "MNS/MR_BECKER/Questions sur la Supervision Réseau et PRTG.md",
     "MNS/PNETLAB/Etapes.md",
     "MNS/PNETLAB/Procédure Layer 3 (antho n).md",
-    "MNS/MR_BECKER/ROOTAGE STATIC.md",
-    "MNS/NETACAD/Endpoint security/Module 9 - Protection du système et des terminaux/9.1 Protéger les systèmes et les appareils.md",
-    "PJ/Pasted image 20250303142653.png",
     "MNS/NETACAD/Endpoint security/Module 8 - Linux/8.3 Serveurs et clients Linux.md",
     "MNS/NETACAD/Endpoint security/Module 8 - Linux/8.7 Utiliser un hôte Linux.md",
     "MNS/NETACAD/Endpoint security/Module 9 - Protection du système et des terminaux",
@@ -197,23 +213,7 @@
     "MNS/NETACAD/Endpoint security/Module 8 - Linux/8.6 Utiliser l'interface graphique (GUI) Linux.md",
     "MNS/NETACAD/Endpoint security/Module 8 - Linux/8.5 Le système de fichiers Linux.md",
     "MNS/NETACAD/Endpoint security/Module 8 - Linux/8.4 Administration de base du serveur.md",
-    "PJ/Pasted image 20250303110759.png",
-    "PJ/Pasted image 20250303110607.png",
-    "PJ/Pasted image 20250303110551.png",
-    "PJ/Pasted image 20250303105213.png",
-    "MNS/NETACAD/Endpoint security/Module 7 - Windows (OS)/7.4 Sécurité Windows.md",
-    "MNS/NETACAD/Endpoint security/Module 7 - Windows (OS)/7.3 Configuration et contrôle de Windows.md",
-    "PJ/Pasted image 20250303103900.png",
-    "PJ/Pasted image 20250303095711.png",
-    "PJ/Pasted image 20250303095650.png",
-    "MNS/NETACAD/Endpoint security/Module 7 - Windows (OS)/7.1 Système d'exploitation du disque (MS-DOS).md",
-    "MNS/Définitions -.md",
     "MNS/NETACAD/Endpoint security/Module 8 - Linux",
-    "MNS/NETACAD/Endpoint security/Module 7 - Windows (OS)/7.2 Architecture et fonctionnement de Windows.md",
-    "MNS/MR_ROLLAND/01 - Installation et Configuration du Laboratoire.md",
-    "MNS/MR_ROLLAND/Conteneurisation.md",
-    "MNS/MR_ROLLAND/README.md",
-    "MNS/MR_ROLLAND/CONCLUSION.md",
     "MNS/NETACAD/Endpoint security/Module 7 - Windows (OS)",
     "MNS/NETACAD/Endpoint security/Module 6 - Dispositifs de sécurité",
     "MNS/NETACAD",
