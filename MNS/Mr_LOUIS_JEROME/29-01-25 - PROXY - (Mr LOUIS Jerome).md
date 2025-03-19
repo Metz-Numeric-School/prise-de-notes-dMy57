@@ -40,53 +40,21 @@ se login avec "installer" et mettre mdp "opnsense"
 - Apres l'install, desactive l'iso dans : 
 ![[Pasted image 20250312091139.png]]
 désactiver "connected"
-faire les mise à jour (suivre procédure word)
-
-## CERTIFICAT 
-
-Système -> Gestion des certificats -> autorités 
-
-![[Pasted image 20250312092517.png]]
-
-Télécharger le certificat :
-
-renommer en .**crt**
-
-Ouvrir le certificat et installer sur l'ordinateur :
-
-Placer dans le "magasin" puis autorités de certification racines de confiance 
-![[Pasted image 20250312092910.png]]
-
-Systèeme ->Firmaware -> Greffons (plugins)
-
-rechercher squid puis installer 
-
-redémarer le serveur
-
-Installation du proxy :
-
-Services - proxy web squid - admin - forward proxy 
-
-Choisir l'interface LAN + mettre certificat SSL  dans "AC" à use puis choisir paramètre cache local et cocher "activer le cache local" puis appliquer 
-
-cocher aussi activer le proxy dans reglages proxy généraux 
-
-Pare feu -> regle -> LAN -> nv regles 
-
-![[Pasted image 20250312094844.png]]
-
-mettre decription :  HTTP Bloquée pour forcer le PROXY puis save 
-
-la dupliquer et changer HTTP par HTTPS 
-
-monter les règles en les cochant et les faire "monter" puis appliquer les changement 
-
-![[Pasted image 20250312095221.png]]
-![[Pasted image 20250312095251.png]]
+faire les mise à jour (suivre procédure Word)
 
 
-Dans windoxs : activer proxy 
 
-cocher utiliser un server proxy :  et mettre l'ip + port 3128  puis enregistré 
 
-![[Pasted image 20250312102356.png]]
+
+
+
+
+
+et télécharger les acls et les appliquer : 
+![[Pasted image 20250312111113.png]]
+
+amazon : 
+![[Pasted image 20250312111251.png]]
+
+
+
