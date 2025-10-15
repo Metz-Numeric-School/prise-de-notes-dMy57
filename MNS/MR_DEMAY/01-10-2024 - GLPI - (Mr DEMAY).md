@@ -103,5 +103,67 @@ Voici un exemple de configuration :
 iface ens33 = carte réseau
 address : 10.10.10.100
 netmask : 255.255.255.0
-gateway : 10.10.10.2
+gateway : 10.10.10.254
 dns-nameservers : 8.8.8.8 4.4.4.4
+```
+
+---
+
+### 🔧 2. **Vérifier que `AllowOverride All` est bien activé**
+
+Dans ton VirtualHost Apache (ex : `/etc/apache2/sites-available/000-default.conf`), tu dois avoir un bloc comme ceci :
+
+
+```
+<VirtualHost *:80>
+    ServerAdmin webmaster@localhost
+    DocumentRoot /var/www/glpi/public
+
+    <Directory /var/www/glpi/public>
+        Options Indexes FollowSymLinks
+        AllowOverride All
+        Require all granted
+    </Directory>
+
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
+
+```
+
+👉 **Assure-toi bien que le chemin est `/var/www/glpi/public`**, et que `AllowOverride All` est présent.
+
+---
+
+### 🧪 4. **Vérifier la présence du fichier `.htaccess`**
+
+Dans `/var/www/glpi/public`, tu dois avoir un fichier `.htaccess` (GLPI le fournit normalement) avec ce contenu :
+
+```
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php [QSA,L]
+```
+
+---
+
+### 🔃 3. **Redémarrer Apache après les changements** 
+
+
+```
+sudo systemctl restart apache2
+```
+
+---
+
+## ✅ Checklist pour corriger l'erreur 404
+
+### 🔧 1. **Activer le module Apache `mod_rewrite`**
+
+C’est essentiel pour que les URLs "propres" fonctionnent :
+
+```
+sudo a2enmod rewrite
+sudo systemctl restart apache2
+```

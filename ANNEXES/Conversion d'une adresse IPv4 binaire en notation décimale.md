@@ -25,3 +25,42 @@ Pour chaque octet, nous devons convertir le nombre binaire en un nombre décimal
 
 Le calcul pour cet octet est le suivant :
 
+| Bit         | 1   | 1   | 0   | 0   | 1   | 0   | 1   | 1   |
+| ----------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Poids (2^n) | 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |
+Calcul :  
+128 + 64 + 0 + 0 + 8 + 0 + 2 + 1 = 203
+
+---
+
+**Octet 2 : 00000000**
+
+Tous les bits à 0 → 0
+
+---
+
+**Octet 3 : 01110001**
+
+|Bit|0|1|1|1|0|0|0|1|
+|---|---|---|---|---|---|---|---|---|
+|Poids (2^n)|128|64|32|16|8|4|2|1|
+
+Calcul :  
+0 + 64 + 32 + 16 + 0 + 0 + 0 + 1 = 113
+
+---
+
+**Octet 4 : 11010011**
+
+|Bit|1|1|0|1|0|0|1|1|
+|---|---|---|---|---|---|---|---|---|
+|Poids (2^n)|128|64|32|16|8|4|2|1|
+
+Calcul :  
+128 + 64 + 0 + 16 + 0 + 0 + 2 + 1 = 211
+
+---
+
+### Étape 3 : Résultat final en IPv4 décimale pointée
+
+**203.0.113.211**
