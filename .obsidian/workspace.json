@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2eme année/MNS/NETACAD/IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1 - INTRODUCTION AU MATERIEL INFORMATIQUE/1.2.4 Vérifiez votre compréhension – Processeurs et systèmes de refroidissement.md",
+                "file": "CYBER/ethical hax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2.4 Vérifiez votre compréhension – Processeurs et systèmes de refroidissement"
+              "title": "ethical hax"
             }
           }
         ]
@@ -175,8 +175,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "c9a31bd778b83292",
+  "active": "6c948228a6c79cce",
   "lastOpenFiles": [
+    "2eme année/MNS/NETACAD/IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1 - INTRODUCTION AU MATERIEL INFORMATIQUE/1.2.4 Vérifiez votre compréhension.md",
     "CYBER/ethical hax.md",
     "3eme année/MR_NUNGE (Scripting)/test.md",
     "ANNEXES/Conversion d'une adresse IPv4 binaire en notation décimale.md",
@@ -206,7 +207,6 @@
     "2eme année/MNS/MR_BECKER/05-03-25 - ACLs - Access Control List.md",
     "2eme année/MNS/NETACAD/Endpoint security/Module 2 - Sécurisation des réseaux/2.2 Qui s'attaque à notre réseau.md",
     "2eme année/MNS/NETACAD/Endpoint security/Module 2 - Sécurisation des réseaux/2.3. Qu'ai-je appris dans ce module.md",
-    "2eme année/MNS/ANNEXES RAPPORT.md",
     "2eme année/MNS/MR_BECKER/CSNA_v4_Livre_de_formation_avec_annexes_-_Labs_Virtual_Box_2023_02_28.pdf",
     "SNCF",
     "PJ/Pasted image 20250511181400.png",
