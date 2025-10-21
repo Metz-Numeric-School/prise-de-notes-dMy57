@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 786.5
+    "width": 361.5
   },
   "right": {
     "id": "78f6df6de190eea1",
@@ -175,8 +175,9 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "6c948228a6c79cce",
+  "active": "c9a31bd778b83292",
   "lastOpenFiles": [
+    "2eme année/MNS/NETACAD/IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1 - INTRODUCTION AU MATERIEL INFORMATIQUE/1.2.4 Vérifiez votre compréhension – Processeurs et systèmes de refroidissement.md",
     "2eme année/MNS/NETACAD/IT ESSENTIEL 8/Introduction au matériel informatique/MODULE 1 - INTRODUCTION AU MATERIEL INFORMATIQUE/1.2.4 Vérifiez votre compréhension.md",
     "CYBER/ethical hax.md",
     "3eme année/MR_NUNGE (Scripting)/test.md",
@@ -206,7 +207,6 @@
     "2eme année/MNS/MR_BECKER/07-01-2025 STP - (Mr BECKER).md",
     "2eme année/MNS/MR_BECKER/05-03-25 - ACLs - Access Control List.md",
     "2eme année/MNS/NETACAD/Endpoint security/Module 2 - Sécurisation des réseaux/2.2 Qui s'attaque à notre réseau.md",
-    "2eme année/MNS/NETACAD/Endpoint security/Module 2 - Sécurisation des réseaux/2.3. Qu'ai-je appris dans ce module.md",
     "2eme année/MNS/MR_BECKER/CSNA_v4_Livre_de_formation_avec_annexes_-_Labs_Virtual_Box_2023_02_28.pdf",
     "SNCF",
     "PJ/Pasted image 20250511181400.png",
